@@ -1825,3 +1825,82 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jun2025 03:02:12.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=15, z=-627} BlockPos{x=-186, y=15, z=-627}
 [05Jun2025 03:02:12.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=15, z=-626} BlockPos{x=-186, y=15, z=-627}
 [05Jun2025 03:02:14.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=16, z=-626} BlockPos{x=-181, y=17, z=-627}
+[05Jun2025 03:02:24.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/126470, l='ServerLevel[AAAA]', x=-133.65, y=-20.00, z=-733.90] died: Toxic Slime was killed
+[05Jun2025 03:02:26.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[05Jun2025 03:02:37.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=16, z=-617} BlockPos{x=-186, y=16, z=-617}
+[05Jun2025 03:02:37.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=17, z=-615} BlockPos{x=-186, y=16, z=-617}
+[05Jun2025 03:02:53.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=17, z=-609} BlockPos{x=-182, y=16, z=-608}
+[05Jun2025 03:02:53.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=17, z=-609} BlockPos{x=-182, y=16, z=-608}
+[05Jun2025 03:02:53.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=16, z=-608} BlockPos{x=-182, y=16, z=-608}
+[05Jun2025 03:02:53.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=15, z=-608} BlockPos{x=-182, y=16, z=-608}
+[05Jun2025 03:02:53.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=15, z=-607} BlockPos{x=-182, y=16, z=-608}
+[05Jun2025 03:02:53.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=15, z=-607} BlockPos{x=-182, y=16, z=-608}
+[05Jun2025 03:02:53.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=15, z=-608} BlockPos{x=-182, y=16, z=-608}
+[05Jun2025 03:03:01.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=10, z=-601} BlockPos{x=-189, y=10, z=-600}
+[05Jun2025 03:03:03.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=11, z=-600} BlockPos{x=-191, y=10, z=-600}
+[05Jun2025 03:03:57.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/131231, l='ServerLevel[AAAA]', x=-235.61, y=47.00, z=-533.68] died: Toxic Slime fell from a high place
+[05Jun2025 03:03:58.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-215, y=13, z=-625} BlockPos{x=-216, y=13, z=-625}
+[05Jun2025 03:04:27.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-218, y=13, z=-627} BlockPos{x=-218, y=13, z=-629}
+[05Jun2025 03:04:27.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-218, y=12, z=-629} BlockPos{x=-218, y=13, z=-629}
+[05Jun2025 03:04:27.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-218, y=12, z=-629} BlockPos{x=-218, y=13, z=-629}
+[05Jun2025 03:04:27.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-219, y=12, z=-629} BlockPos{x=-218, y=13, z=-629}
+[05Jun2025 03:05:46.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-246, y=9, z=-635} BlockPos{x=-246, y=8, z=-636}
+[05Jun2025 03:05:46.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-246, y=9, z=-635} BlockPos{x=-246, y=8, z=-636}
+[05Jun2025 03:05:59.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-246, y=13, z=-639} BlockPos{x=-247, y=12, z=-639}
+[05Jun2025 03:05:59.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-246, y=12, z=-639} BlockPos{x=-247, y=12, z=-639}
+[05Jun2025 03:06:49.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=15, z=-636} BlockPos{x=-260, y=15, z=-637}
+[05Jun2025 03:06:49.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=15, z=-636} BlockPos{x=-260, y=15, z=-637}
+[05Jun2025 03:06:51.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/133411, l='ServerLevel[AAAA]', x=-334.38, y=50.00, z=-573.92] died: Toxic Slime fell from a high place
+[05Jun2025 03:06:59.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-263, y=15, z=-631} BlockPos{x=-261, y=15, z=-632}
+[05Jun2025 03:06:59.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-263, y=15, z=-631} BlockPos{x=-261, y=15, z=-632}
+[05Jun2025 03:06:59.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-264, y=15, z=-630} BlockPos{x=-261, y=15, z=-632}
+[05Jun2025 03:06:59.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-264, y=15, z=-630} BlockPos{x=-261, y=15, z=-632}
+[05Jun2025 03:07:05.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=17, z=-630} BlockPos{x=-260, y=16, z=-630}
+[05Jun2025 03:07:05.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=17, z=-630} BlockPos{x=-260, y=16, z=-630}
+[05Jun2025 03:07:05.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-259, y=17, z=-631} BlockPos{x=-260, y=16, z=-630}
+[05Jun2025 03:07:05.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-259, y=17, z=-630} BlockPos{x=-260, y=16, z=-630}
+[05Jun2025 03:07:15.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/134885, l='ServerLevel[AAAA]', x=-284.01, y=34.00, z=-575.63] died: Toxic Slime fell from a high place
+[05Jun2025 03:07:38.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-256, y=17, z=-619} BlockPos{x=-257, y=18, z=-619}
+[05Jun2025 03:07:38.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-256, y=17, z=-619} BlockPos{x=-257, y=18, z=-619}
+[05Jun2025 03:07:38.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-256, y=17, z=-618} BlockPos{x=-257, y=18, z=-619}
+[05Jun2025 03:07:38.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=18, z=-618} BlockPos{x=-257, y=18, z=-619}
+[05Jun2025 03:07:38.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=18, z=-618} BlockPos{x=-257, y=18, z=-619}
+[05Jun2025 03:07:38.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=17, z=-617} BlockPos{x=-257, y=18, z=-619}
+[05Jun2025 03:07:38.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=17, z=-617} BlockPos{x=-257, y=18, z=-619}
+[05Jun2025 03:07:50.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-269, y=8, z=-610} BlockPos{x=-268, y=8, z=-612}
+[05Jun2025 03:08:12.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/135850, l='ServerLevel[AAAA]', x=-294.94, y=50.00, z=-586.15] died: Toxic Slime fell from a high place
+[05Jun2025 03:08:14.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[05Jun2025 03:08:14.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-270, y=14, z=-593} BlockPos{x=-269, y=14, z=-592}
+[05Jun2025 03:08:16.130] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/136354, l='ServerLevel[AAAA]', x=-255.10, y=38.00, z=-558.99] died: Toxic Slime fell from a high place
+[05Jun2025 03:08:27.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/136714, l='ServerLevel[AAAA]', x=-271.89, y=44.00, z=-561.04] died: Toxic Slime fell from a high place
+[05Jun2025 03:08:32.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05Jun2025 03:08:43.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137006, l='ServerLevel[AAAA]', x=-290.74, y=34.00, z=-575.06] died: Toxic Slime fell from a high place
+[05Jun2025 03:08:49.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2788ms or 55 ticks behind
+[05Jun2025 03:08:53.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137064, l='ServerLevel[AAAA]', x=-266.13, y=38.00, z=-558.71] died: Toxic Slime fell from a high place
+[05Jun2025 03:09:08.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=12, z=-574} BlockPos{x=-246, y=13, z=-574}
+[05Jun2025 03:09:14.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/136713, l='ServerLevel[AAAA]', x=-229.64, y=36.00, z=-541.95] died: Toxic Slime fell from a high place
+[05Jun2025 03:09:33.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05Jun2025 03:09:40.765] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138396, l='ServerLevel[AAAA]', x=-279.14, y=45.00, z=-570.66] died: Toxic Slime fell from a high place
+[05Jun2025 03:09:51.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2495ms or 49 ticks behind
+[05Jun2025 03:10:02.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138583, l='ServerLevel[AAAA]', x=-268.04, y=49.00, z=-555.19] died: Toxic Slime fell from a high place
+[05Jun2025 03:10:10.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[05Jun2025 03:10:27.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138582, l='ServerLevel[AAAA]', x=-268.55, y=31.00, z=-566.31] died: Toxic Slime fell from a high place
+[05Jun2025 03:10:27.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
+[05Jun2025 03:10:45.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3283ms or 65 ticks behind
+[05Jun2025 03:10:50.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/140197, l='ServerLevel[AAAA]', x=-303.26, y=41.00, z=-595.06] died: Toxic Slime fell from a high place
+[05Jun2025 03:11:02.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-227, y=15, z=-539} BlockPos{x=-227, y=13, z=-537}
+[05Jun2025 03:11:04.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
+[05Jun2025 03:11:22.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[05Jun2025 03:11:25.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/139698, l='ServerLevel[AAAA]', x=-264.59, y=41.00, z=-557.85] died: Toxic Slime fell from a high place
+[05Jun2025 03:11:40.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[05Jun2025 03:11:50.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/139267, l='ServerLevel[AAAA]', x=-211.78, y=32.00, z=-497.64] died: Toxic Slime fell from a high place
+[05Jun2025 03:11:58.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3392ms or 67 ticks behind
+[05Jun2025 03:12:13.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-227, y=18, z=-507} BlockPos{x=-227, y=17, z=-507}
+[05Jun2025 03:12:13.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-227, y=18, z=-507} BlockPos{x=-227, y=17, z=-507}
+[05Jun2025 03:12:16.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[05Jun2025 03:12:17.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138088, l='ServerLevel[AAAA]', x=-197.14, y=-20.00, z=-561.96] died: Toxic Slime was killed
+[05Jun2025 03:12:21.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-233, y=23, z=-507} BlockPos{x=-232, y=24, z=-506}
+[05Jun2025 03:12:28.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/142299, l='ServerLevel[AAAA]', x=-279.02, y=38.00, z=-579.98] died: Toxic Slime fell from a high place
+[05Jun2025 03:12:34.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[05Jun2025 03:12:50.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-246, y=19, z=-504} BlockPos{x=-246, y=18, z=-503}
+[05Jun2025 03:12:51.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/139106, l='ServerLevel[AAAA]', x=-211.57, y=-20.00, z=-547.37] died: Toxic Slime was killed
