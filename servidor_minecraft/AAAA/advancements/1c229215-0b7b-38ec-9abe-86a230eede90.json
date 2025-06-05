@@ -122,6 +122,7 @@
       "deciduous_forest": "2025-05-26 02:26:33 +0000",
       "boreal_forest": "2025-06-03 02:53:27 +0000",
       "glistering_meadow": "2025-06-04 23:42:09 +0000",
+      "blackstone_basin": "2025-06-05 02:01:44 +0000",
       "infernal_holt": "2025-05-31 06:37:10 +0000",
       "bamboo_forest": "2025-05-26 02:41:54 +0000",
       "temperate_grove": "2025-06-03 02:20:30 +0000",
@@ -874,6 +875,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2025-06-05 01:40:55 +0000",
       "brimwood_log": "2025-05-31 06:38:33 +0000",
       "small_oak_log": "2025-05-26 02:37:13 +0000",
       "redwood_log": "2025-05-26 02:57:35 +0000",
@@ -5954,6 +5956,7 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-06-03 03:27:41 +0000",
+      "blackstone_basin": "2025-06-05 02:01:44 +0000",
       "infernal_holt": "2025-05-31 06:37:10 +0000",
       "glistering_meadow": "2025-06-04 23:42:09 +0000"
     },
@@ -7455,6 +7458,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:weeping_valley": "2025-06-05 02:04:59 +0000",
       "incendium:toxic_heap": "2025-06-04 21:32:45 +0000"
     },
     "done": false
@@ -7839,9 +7843,58 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-06-05 02:10:48 +0000",
       "minecraft:basalt_deltas": "2025-06-04 23:45:34 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-06-05 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-06-05 02:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-06-05 02:04:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-06-05 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-06-05 02:06:51 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-06-05 02:04:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-06-05 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_sapling": "2025-06-05 01:40:56 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

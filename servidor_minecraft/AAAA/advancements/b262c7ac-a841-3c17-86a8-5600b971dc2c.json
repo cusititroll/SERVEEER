@@ -120,6 +120,7 @@
       "mountains": "2025-05-31 04:11:12 +0000",
       "deciduous_forest": "2025-05-26 02:44:22 +0000",
       "boreal_forest": "2025-06-03 02:53:11 +0000",
+      "blackstone_basin": "2025-06-05 02:01:02 +0000",
       "infernal_holt": "2025-06-03 03:26:55 +0000",
       "temperate_grove": "2025-06-02 00:06:11 +0000",
       "cold_river": "2025-05-31 04:06:59 +0000",
@@ -5549,6 +5550,7 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-06-01 23:58:38 +0000",
+      "blackstone_basin": "2025-06-05 02:01:02 +0000",
       "infernal_holt": "2025-06-03 03:26:55 +0000"
     },
     "done": false
@@ -6387,77 +6389,143 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-05 02:15:06 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_quartz": "2025-06-05 02:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-05 02:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-05 02:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-05 02:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-06-05 02:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-06-05 02:04:51 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "regions_unexplored:recipes/misc/brimwood_sapling_from_brimwood_shrub": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_brimwood_shrub": "2025-06-05 01:58:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_netherite_upgrade_smithing_template": "2025-06-05 01:33:04 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/decorations/lodestone": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_quartz": "2025-06-05 02:05:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_quartz": "2025-06-05 02:05:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:37:26 +0000"
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
