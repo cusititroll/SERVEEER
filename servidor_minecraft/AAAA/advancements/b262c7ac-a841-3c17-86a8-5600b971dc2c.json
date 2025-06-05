@@ -992,6 +992,7 @@
       "bread": "2025-05-26 02:56:28 +0000",
       "golden_apple": "2025-06-04 19:00:45 +0000",
       "rotten_flesh": "2025-05-26 02:53:18 +0000",
+      "suspicious_stew": "2025-06-05 16:23:13 +0000",
       "dried_kelp": "2025-05-27 04:29:18 +0000",
       "melon_slice": "2025-05-30 16:42:35 +0000",
       "beetroot": "2025-05-30 03:48:18 +0000",
@@ -6561,7 +6562,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_nether": "2025-06-05 02:33:45 +0000"
+      "in_pyramid_nether": "2025-06-05 02:33:45 +0000",
+      "in_pyramid_flower_forest": "2025-06-05 16:22:23 +0000"
     },
     "done": false
   },
@@ -6892,6 +6894,12 @@
   "valhelsia_furniture:recipes/decorations/white_cherry_chair": {
     "criteria": {
       "has_white_wool": "2025-06-05 03:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-06-05 16:20:36 +0000"
     },
     "done": true
   },
