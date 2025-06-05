@@ -1170,6 +1170,7 @@
       "minecraft:piglin_brute": "2025-06-03 03:32:33 +0000",
       "minecraft:creeper": "2025-05-31 03:33:10 +0000",
       "minecraft:evoker": "2025-05-31 04:54:56 +0000",
+      "minecraft:phantom": "2025-06-05 02:28:48 +0000",
       "minecraft:witch": "2025-05-31 01:53:56 +0000",
       "minecraft:wither_skeleton": "2025-06-03 03:56:09 +0000",
       "minecraft:piglin": "2025-06-03 03:32:00 +0000",
@@ -6404,6 +6405,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-05 02:47:07 +0000",
       "minecraft:nether_wastes": "2025-06-05 02:15:06 +0000"
     },
     "done": false
@@ -6475,6 +6477,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-06-05 02:44:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
@@ -6535,11 +6543,29 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2025-06-05 02:33:45 +0000"
+    },
+    "done": false
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-06-05 02:28:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-05 02:28:48 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

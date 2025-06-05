@@ -7878,9 +7878,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-05 02:46:09 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/obtain_an_ender_pearl": {
     "criteria": {
       "criteria": "2025-06-05 02:04:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-06-05 02:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-05 02:46:09 +0000"
     },
     "done": true
   },
