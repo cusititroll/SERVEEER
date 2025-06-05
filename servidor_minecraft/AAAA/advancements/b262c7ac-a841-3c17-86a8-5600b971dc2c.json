@@ -982,6 +982,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-31 01:07:50 +0000",
       "chicken": "2025-05-31 03:28:25 +0000",
+      "cooked_beef": "2025-06-05 02:25:46 +0000",
       "baked_potato": "2025-05-30 16:58:03 +0000",
       "tropical_fish": "2025-05-27 04:26:06 +0000",
       "apple": "2025-05-26 03:01:46 +0000",
@@ -6443,6 +6444,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-06-05 02:25:25 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:weeping_valley": "2025-06-05 02:04:51 +0000"
@@ -6457,7 +6464,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:weeping_valley": "2025-06-05 02:04:51 +0000"
+      "incendium:weeping_valley": "2025-06-05 02:04:51 +0000",
+      "incendium:toxic_heap": "2025-06-05 02:25:25 +0000"
     },
     "done": false
   },
@@ -6488,6 +6496,12 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-06-05 02:26:17 +0000"
     },
     "done": true
   },

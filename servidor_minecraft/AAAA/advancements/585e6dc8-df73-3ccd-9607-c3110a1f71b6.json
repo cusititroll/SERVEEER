@@ -12381,6 +12381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-05 02:17:56 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-05 01:23:00 +0000"
