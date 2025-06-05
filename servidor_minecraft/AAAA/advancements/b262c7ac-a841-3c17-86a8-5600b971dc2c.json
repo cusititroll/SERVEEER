@@ -104,6 +104,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-05-31 03:25:40 +0000",
+      "redstone_abyss": "2025-06-05 02:49:14 +0000",
       "pine_taiga": "2025-05-31 04:04:55 +0000",
       "autumnal_maple_forest": "2025-05-31 04:07:08 +0000",
       "ancient_delta": "2025-05-30 18:56:18 +0000",
@@ -5553,7 +5554,8 @@
     "criteria": {
       "mycotoxic_undergrowth": "2025-06-01 23:58:38 +0000",
       "blackstone_basin": "2025-06-05 02:01:02 +0000",
-      "infernal_holt": "2025-06-03 03:26:55 +0000"
+      "infernal_holt": "2025-06-03 03:26:55 +0000",
+      "redstone_abyss": "2025-06-05 02:49:14 +0000"
     },
     "done": false
   },
@@ -6391,6 +6393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-06-05 02:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
@@ -6400,6 +6408,12 @@
   "aether:recipes/combat/netherite_gloves_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-06-05 02:55:11 +0000"
     },
     "done": true
   },
@@ -6440,6 +6454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-06-05 02:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
@@ -6464,9 +6484,28 @@
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_nether_brick": "2025-06-05 02:56:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-05 02:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-05 02:55:11 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:weeping_valley": "2025-06-05 02:04:51 +0000",
+      "incendium:inverted_forest": "2025-06-05 02:49:23 +0000",
       "incendium:toxic_heap": "2025-06-05 02:25:25 +0000"
     },
     "done": false
@@ -6507,9 +6546,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-05 02:55:11 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
       "requirement": "2025-06-05 02:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-06-05 02:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-05 02:55:12 +0000"
     },
     "done": true
   },
@@ -6537,9 +6594,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-06-05 02:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-05 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-06-05 02:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-06-05 02:55:11 +0000"
     },
     "done": true
   },
