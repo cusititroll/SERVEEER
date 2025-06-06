@@ -1283,3 +1283,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jun2025 01:35:18.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.40.0.99:40031] logged in with entity id 23394 at (-278.5745889480934, 128.0, -2226.4615884606396)
 [06Jun2025 01:35:18.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
 [06Jun2025 01:35:18.600] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[06Jun2025 01:38:35.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [The Parrots and the Bats]
+[06Jun2025 01:40:59.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 lost connection: Disconnected
+[06Jun2025 01:40:59.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 left the game
+[06Jun2025 01:42:48.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:48913] logged in with entity id 31462 at (-952.6323090386445, 85.0, -741.4197882218276)
+[06Jun2025 01:42:48.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
+[06Jun2025 01:42:48.206] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
+[06Jun2025 01:45:58.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xZ3r0kx[/127.56.156.83:53989] logged in with entity id 33223 at (-1693.484654109827, 162.17675927506423, -764.8200723712409)
+[06Jun2025 01:45:58.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx joined the game
+[06Jun2025 01:45:58.902] [Server thread/INFO] [Jade/]: Syncing config to xZ3r0kx (b262c7ac-a841-3c17-86a8-5600b971dc2c)
+[06Jun2025 01:46:59.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 lost connection: Disconnected
+[06Jun2025 01:46:59.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 left the game
+[06Jun2025 01:47:40.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Super Creeps]
