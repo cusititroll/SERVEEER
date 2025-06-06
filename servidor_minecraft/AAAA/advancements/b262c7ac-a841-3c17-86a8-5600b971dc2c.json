@@ -6903,5 +6903,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-06-05 16:26:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_white_glazed_jar": {
+    "criteria": {
+      "has_white_terracotta": "2025-06-05 16:26:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/white_glazed_jar": {
+    "criteria": {
+      "has_white_terracotta": "2025-06-05 16:26:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-06-05 16:28:21 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-06-05 16:26:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
