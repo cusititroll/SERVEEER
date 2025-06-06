@@ -2457,7 +2457,8 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2025-05-18 04:21:07 +0000",
-      "redwood_log": "2025-05-19 20:21:52 +0000"
+      "redwood_log": "2025-05-19 20:21:52 +0000",
+      "maple_log": "2025-06-06 03:44:14 +0000"
     },
     "done": false
   },
@@ -10240,9 +10241,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-06-06 03:44:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-06 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-06-06 03:44:14 +0000"
     },
     "done": true
   },
@@ -10261,6 +10274,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-06 03:18:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-06-06 03:44:14 +0000"
     },
     "done": true
   },

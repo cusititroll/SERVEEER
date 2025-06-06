@@ -2105,7 +2105,8 @@
       "minecraft:skeleton": "2025-05-26 02:49:31 +0000",
       "minecraft:spider": "2025-06-03 05:38:02 +0000",
       "minecraft:creeper": "2025-06-03 05:56:44 +0000",
-      "minecraft:zombie": "2025-05-26 03:23:29 +0000"
+      "minecraft:zombie": "2025-05-26 03:23:29 +0000",
+      "minecraft:zombie_villager": "2025-06-06 03:40:47 +0000"
     },
     "done": false
   },
@@ -5439,77 +5440,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
+      "has_diamond_sword": "2025-06-06 02:35:26 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 03:22:41 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
@@ -5529,27 +5464,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_sword_repairing": {
-    "criteria": {
-      "has_diamond_sword": "2025-06-06 02:35:26 +0000"
-    },
-    "done": true
-  },
   "enemyexpansion:troll_hunter": {
     "criteria": {
       "troll_hunter_0": "2025-06-06 02:48:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-06-06 02:49:59 +0000"
-    },
-    "done": true
-  },
-  "immersive_paintings:misc/glow_painting": {
-    "criteria": {
-      "has_item": "2025-06-06 02:49:45 +0000"
     },
     "done": true
   },
@@ -5562,6 +5479,18 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-06-06 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-06-06 02:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-06 02:49:59 +0000"
     },
     "done": true
   },
