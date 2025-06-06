@@ -1280,3 +1280,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jun2025 20:33:21.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
 [06Jun2025 20:33:22.035] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
 [06Jun2025 20:33:23.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3025ms or 60 ticks behind
+[06Jun2025 20:42:32.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Sciency Science Doodad]
+[06Jun2025 20:45:47.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BgodYT[/127.55.194.191:37415] logged in with entity id 8953 at (-963.8121657926653, 76.0, -742.2425303871645)
+[06Jun2025 20:45:47.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT joined the game
+[06Jun2025 20:45:48.115] [Server thread/INFO] [Jade/]: Syncing config to BgodYT (1c229215-0b7b-38ec-9abe-86a230eede90)
