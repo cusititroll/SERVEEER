@@ -1141,6 +1141,7 @@
       "minecraft:creeper": "2025-05-31 05:18:27 +0000",
       "minecraft:evoker": "2025-05-31 04:56:53 +0000",
       "minecraft:slime": "2025-06-04 21:57:18 +0000",
+      "minecraft:phantom": "2025-06-06 21:01:02 +0000",
       "minecraft:wither_skeleton": "2025-06-03 03:41:25 +0000",
       "minecraft:piglin": "2025-06-03 03:37:54 +0000",
       "minecraft:enderman": "2025-05-26 03:22:50 +0000",
@@ -7997,6 +7998,18 @@
       "has_soul_sand": "2025-06-06 03:08:27 +0000"
     },
     "done": true
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-06-06 21:01:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-06 21:01:02 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

@@ -6975,9 +6975,21 @@
     },
     "done": true
   },
+  "spawn:recipes/snail/ghostly_mucus_block_from_phantom_membrane": {
+    "criteria": {
+      "has_raw_item": "2025-06-06 21:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:main/analyzer": {
     "criteria": {
       "anaylzer": "2025-06-06 20:42:32 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/leather_from_membranes": {
+    "criteria": {
+      "has_item": "2025-06-06 21:01:40 +0000"
     },
     "done": true
   },
