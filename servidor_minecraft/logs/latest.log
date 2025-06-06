@@ -1835,3 +1835,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jun2025 05:59:58.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=118, z=-2188} BlockPos{x=-184, y=118, z=-2188}
 [06Jun2025 06:13:00.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-270, y=120, z=-2231} BlockPos{x=-271, y=120, z=-2232}
 [06Jun2025 06:13:03.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-275, y=123, z=-2232} BlockPos{x=-275, y=122, z=-2231}
+[06Jun2025 06:19:04.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has reached the goal [Eye of Darkness]
+[06Jun2025 06:20:46.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Zombie
+[06Jun2025 06:20:46.236] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-193, 112, -2212) minecraft:overworld
+[06Jun2025 06:23:17.049] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 06:24:48.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[06Jun2025 06:24:48.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[06Jun2025 06:33:56.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was doomed to fall by PandagamerP
+[06Jun2025 06:33:56.386] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-322, 139, -2152) minecraft:overworld
+[06Jun2025 06:34:42.401] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
