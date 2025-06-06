@@ -2019,6 +2019,7 @@
       "minecraft:frozen_ocean": "2025-05-20 07:01:12 +0000",
       "minecraft:jungle": "2025-05-19 06:28:53 +0000",
       "minecraft:ocean": "2025-05-20 03:36:35 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-06 22:42:53 +0000",
       "minecraft:flower_forest": "2025-05-21 06:24:51 +0000",
       "minecraft:frozen_peaks": "2025-05-20 03:39:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-20 03:05:47 +0000",
@@ -8163,6 +8164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-06 22:44:34 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_warped_chair": {
     "criteria": {
       "has_red_wool": "2025-06-06 21:33:47 +0000"
@@ -8235,6 +8242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-06 22:44:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_sofa": {
     "criteria": {
       "has_wool": "2025-06-06 21:33:47 +0000"
@@ -8259,6 +8272,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-06-06 22:44:32 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_jungle_chair": {
     "criteria": {
       "has_red_wool": "2025-06-06 21:33:47 +0000"
@@ -8277,6 +8296,12 @@
     },
     "done": true
   },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-06-06 22:44:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/red_cape": {
     "criteria": {
       "has_red_wool": "2025-06-06 21:33:47 +0000"
@@ -8292,6 +8317,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-06 22:44:52 +0000"
     },
     "done": true
   },
@@ -8334,6 +8365,12 @@
   "valhelsia_furniture:recipes/decorations/red_mangrove_chair": {
     "criteria": {
       "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/shulker_things": {
+    "criteria": {
+      "requirement2": "2025-06-06 22:44:53 +0000"
     },
     "done": true
   },
@@ -8439,9 +8476,21 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
+    "criteria": {
+      "requirement2": "2025-06-06 22:44:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-06 22:44:52 +0000"
     },
     "done": true
   },

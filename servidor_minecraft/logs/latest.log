@@ -1520,3 +1520,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jun2025 22:28:13.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP moved too quickly! -8.566320097668779,0.001335979112141672,10.948196798323352
 [06Jun2025 22:29:45.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> esperen 5
 [06Jun2025 22:30:36.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has reached the goal [Eye of Darkness]
+[06Jun2025 22:33:11.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [Strengthened by Fire]
+[06Jun2025 22:33:37.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has reached the goal [A Step to The End]
+[06Jun2025 22:33:40.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has reached the goal [Strengthened by Fire]
+[06Jun2025 22:33:52.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> [name:"PORTAL END", x:206, y:4, z:-2325, dim:minecraft:overworld]
+[06Jun2025 22:33:52.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-232, y=120, z=-2191} BlockPos{x=-232, y=119, z=-2190}
+[06Jun2025 22:38:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Eye Spy]
+[06Jun2025 22:43:55.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [Journey's End]
+[06Jun2025 22:43:55.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has reached the goal [Journey's End]
+[06Jun2025 22:43:55.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has reached the goal [Journey's End]
+[06Jun2025 22:44:21.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [The End?]
+[06Jun2025 22:44:23.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2753ms or 55 ticks behind
+[06Jun2025 22:44:26.606] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[06Jun2025 22:44:26.647] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[06Jun2025 22:44:28.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [The End?]
+[06Jun2025 22:44:28.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [The End?]
+[06Jun2025 22:44:29.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BgodYT moved too quickly! -103.68250528787061,43.37870315946081,2316.4037086732988
+[06Jun2025 22:44:32.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Eye Spy]
+[06Jun2025 22:44:37.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xZ3r0kx moved too quickly! -104.32986987247139,43.51102912385573,2315.0504466968096
+[06Jun2025 22:44:52.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [The End?]
+[06Jun2025 22:45:45.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Ender Distancing]
+[06Jun2025 22:45:46.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Ender Distancing]
+[06Jun2025 22:45:48.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Capsid-19]
+[06Jun2025 22:45:49.654] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/187927, l='ServerLevel[AAAA]', x=138.50, y=71.00, z=-2046.50]
+[06Jun2025 22:47:20.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Confusing Fruit]
+[06Jun2025 22:47:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Ender Distancing]
+[06Jun2025 22:47:24.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Capsid-19]
+[06Jun2025 22:47:24.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Eye Spy]
+[06Jun2025 22:47:35.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [The End?]
+[06Jun2025 22:49:08.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Sacrificial Ritual]
+[06Jun2025 22:49:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Sacrificial Ritual]
+[06Jun2025 22:49:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Sacrificial Ritual]
+[06Jun2025 22:49:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Sacrificial Ritual]
+[06Jun2025 22:49:29.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Final Showdown]
+[06Jun2025 22:49:29.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Final Showdown]
+[06Jun2025 22:49:29.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Final Showdown]
+[06Jun2025 22:49:29.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Final Showdown]
+[06Jun2025 22:49:29.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Final Showdown]
+[06Jun2025 22:50:00.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Ender Distancing]
+[06Jun2025 22:50:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Capsid-19]
+[06Jun2025 22:50:54.419] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID 501fd746-bc83-4499-8619-6039abfb5e39
+[06Jun2025 22:50:54.420] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 19 Y: 94 Z: 56
+[06Jun2025 22:50:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was killed by entity.epicfight.area_effect_breath using magic
+[06Jun2025 22:50:54.455] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(18, 94, 56) minecraft:the_end

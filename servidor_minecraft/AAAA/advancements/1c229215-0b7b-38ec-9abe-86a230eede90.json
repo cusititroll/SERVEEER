@@ -1062,6 +1062,7 @@
       "cooked_cod": "2025-05-28 02:42:35 +0000",
       "bread": "2025-05-27 04:17:03 +0000",
       "rotten_flesh": "2025-05-26 03:09:19 +0000",
+      "suspicious_stew": "2025-06-06 22:30:40 +0000",
       "golden_carrot": "2025-06-04 22:15:24 +0000",
       "cooked_chicken": "2025-05-31 03:49:44 +0000",
       "mushroom_stew": "2025-05-31 03:33:07 +0000",
@@ -1109,6 +1110,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-31 04:19:00 +0000",
+      "minecraft:taiga": "2025-06-06 22:36:56 +0000",
       "minecraft:sunflower_plains": "2025-05-31 04:22:14 +0000",
       "minecraft:cherry_grove": "2025-06-03 02:23:59 +0000",
       "minecraft:beach": "2025-05-31 04:21:29 +0000",
@@ -1121,6 +1123,7 @@
       "minecraft:forest": "2025-06-03 02:23:22 +0000",
       "minecraft:lush_caves": "2025-05-31 03:52:53 +0000",
       "minecraft:ocean": "2025-05-31 04:21:10 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-06 22:37:52 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-28 02:28:49 +0000",
       "minecraft:flower_forest": "2025-05-31 03:29:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-03 02:22:39 +0000",
@@ -8012,9 +8015,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-06-06 22:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/squid_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 22:45:08 +0000"
     },
     "done": true
   },
@@ -8174,6 +8189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 22:45:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/end_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
@@ -8201,6 +8222,12 @@
   "aether:recipes/combat/poison_dart_shooter": {
     "criteria": {
       "has_aechor_petal": "2025-06-06 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-06-06 22:38:39 +0000"
     },
     "done": true
   },
@@ -8270,9 +8297,21 @@
     },
     "done": true
   },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-06-06 22:44:29 +0000"
+    },
+    "done": true
+  },
   "aether:read_lore": {
     "criteria": {
       "lore_book_entry": "2025-06-06 22:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-06 22:44:28 +0000"
     },
     "done": true
   },
@@ -8330,6 +8369,12 @@
     },
     "done": true
   },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-06-06 22:43:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/nether_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
@@ -8366,6 +8411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 22:45:08 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_chair": {
     "criteria": {
       "has_pink_wool": "2025-06-06 22:22:02 +0000"
@@ -8393,6 +8444,12 @@
   "minecraft:recipes/tools/chicken_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/shulker_things": {
+    "criteria": {
+      "requirement2": "2025-06-06 22:44:29 +0000"
     },
     "done": true
   },
@@ -8480,6 +8537,12 @@
     },
     "done": true
   },
+  "stellarity:exploration/ender_adventurer": {
+    "criteria": {
+      "sculk_growth": "2025-06-06 22:44:29 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_jungle_chair": {
     "criteria": {
       "has_pink_wool": "2025-06-06 22:22:02 +0000"
@@ -8519,6 +8582,18 @@
   "valhelsia_furniture:recipes/decorations/pink_jungle_chair": {
     "criteria": {
       "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
+    "criteria": {
+      "requirement2": "2025-06-06 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-06 22:44:28 +0000"
     },
     "done": true
   },
@@ -8573,6 +8648,24 @@
   "minecraft:recipes/tools/ocelot_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/glass_from_end_stone": {
+    "criteria": {
+      "has_item": "2025-06-06 22:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 22:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 22:45:08 +0000"
     },
     "done": true
   },

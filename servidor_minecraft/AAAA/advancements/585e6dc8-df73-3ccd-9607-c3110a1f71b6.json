@@ -12818,15 +12818,105 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2025-06-06 22:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-06 22:33:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-06-06 22:33:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-06-06 22:10:48 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-06 22:45:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_boots_repairing": {
     "criteria": {
       "has_netherite_boots": "2025-06-06 22:16:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-06-06 22:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-06 22:33:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-06-06 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-06 22:44:21 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-06-06 22:43:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/shulker_things": {
+    "criteria": {
+      "requirement2": "2025-06-06 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/purple_dye_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-06-06 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-06-06 22:33:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-06-06 22:45:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
+    "criteria": {
+      "requirement2": "2025-06-06 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-06 22:44:21 +0000"
     },
     "done": true
   },

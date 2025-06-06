@@ -840,6 +840,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-03 05:37:57 +0000",
+      "honey_bottle": "2025-06-06 22:40:37 +0000",
       "cooked_mutton": "2025-06-06 01:36:11 +0000",
       "cooked_beef": "2025-06-03 04:14:44 +0000",
       "baked_potato": "2025-05-26 02:19:46 +0000",
@@ -1248,16 +1249,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-06-06 22:43:47 +0000",
       "minecraft:bamboo_jungle": "2025-05-26 02:37:19 +0000",
       "minecraft:beach": "2025-05-26 02:41:56 +0000",
       "minecraft:stony_peaks": "2025-05-26 02:13:11 +0000",
+      "minecraft:dark_forest": "2025-06-06 22:46:00 +0000",
       "minecraft:sparse_jungle": "2025-05-26 02:29:42 +0000",
       "minecraft:lukewarm_ocean": "2025-05-26 02:44:55 +0000",
       "minecraft:river": "2025-05-26 03:03:05 +0000",
       "minecraft:stony_shore": "2025-05-26 02:39:38 +0000",
       "minecraft:forest": "2025-05-26 02:26:53 +0000",
+      "minecraft:lush_caves": "2025-06-06 22:47:20 +0000",
       "minecraft:jungle": "2025-05-26 02:37:15 +0000",
       "minecraft:ocean": "2025-05-26 02:45:40 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-06 22:46:27 +0000",
       "minecraft:plains": "2025-05-26 02:39:45 +0000"
     },
     "done": false
@@ -5539,6 +5544,84 @@
   "valhelsia_structures:recipes/building_blocks/stripped_oak_post": {
     "criteria": {
       "has_item": "2025-06-06 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/tuna/tuna_sandwich_from_cooked_tuna_chunk": {
+    "criteria": {
+      "has_item": "2025-06-06 22:43:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-06-06 22:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-06 22:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-06 22:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-06 22:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-06 22:39:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-06 22:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-06-06 22:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-06-06 22:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-06 22:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-06 22:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-06 22:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-06-06 22:39:50 +0000"
     },
     "done": true
   },
