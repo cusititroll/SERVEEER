@@ -1844,3 +1844,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jun2025 06:33:56.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was doomed to fall by PandagamerP
 [06Jun2025 06:33:56.386] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-322, 139, -2152) minecraft:overworld
 [06Jun2025 06:34:42.401] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 06:36:06.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[06Jun2025 06:36:06.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[06Jun2025 06:36:24.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Disconnected
+[06Jun2025 06:36:24.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game
+[06Jun2025 06:36:50.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jun2025 06:36:50.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jun2025 06:36:50.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jun2025 06:36:50.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jun2025 06:36:50.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:overworld
+[06Jun2025 06:36:50.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/aether:the_aether
+[06Jun2025 06:36:50.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/twilightforest:twilight_forest
+[06Jun2025 06:36:50.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_end
+[06Jun2025 06:36:50.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_nether
+[06Jun2025 06:36:50.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/deeperdarker:otherside
+[06Jun2025 06:36:50.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (AAAA): All chunks are saved
+[06Jun2025 06:36:50.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[06Jun2025 06:36:50.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Jun2025 06:36:50.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jun2025 06:36:50.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jun2025 06:36:50.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[06Jun2025 06:36:50.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jun2025 06:36:51.373] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
