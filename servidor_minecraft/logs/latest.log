@@ -1444,3 +1444,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jun2025 02:55:17.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/164544, l='ServerLevel[AAAA]', x=-412.71, y=71.00, z=-617.67] died: Toxic Slime fell from a high place
 [06Jun2025 02:55:31.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5473ms or 109 ticks behind
 [06Jun2025 02:55:49.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
+[06Jun2025 03:00:27.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[06Jun2025 03:02:14.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> [name:"PORTAL END", x:206, y:4, z:-2325, dim:minecraft:overworld]
+[06Jun2025 03:04:32.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Casti414> [name:"Flores", x:2094, y:74, z:-4780, dim:minecraft:overworld]
+[06Jun2025 03:06:02.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 moved too quickly! -9.158961103205542,1.1661092609382138,-4.151578682444324
+[06Jun2025 03:06:02.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[06Jun2025 03:06:15.644] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/175339, l='ServerLevel[AAAA]', x=-15.50, y=78.00, z=-2165.50]
+[06Jun2025 03:06:39.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xZ3r0kx moved wrongly!
+[06Jun2025 03:08:05.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Eye Spy]
+[06Jun2025 03:08:50.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06Jun2025 03:09:31.636] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MICHE019 with unique ID 6c9090fa-ec23-4346-a26c-bd1e0f4f1408
+[06Jun2025 03:09:31.637] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1048 Y: -57 Z: -741
+[06Jun2025 03:09:31.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 was blown up by Crawler
+[06Jun2025 03:09:31.656] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1049, -57, -742) minecraft:overworld
