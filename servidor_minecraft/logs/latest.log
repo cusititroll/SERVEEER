@@ -1820,3 +1820,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jun2025 05:34:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Zombie
 [06Jun2025 05:34:19.444] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-198, 112, -2170) minecraft:overworld
 [06Jun2025 05:34:49.599] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 05:34:56.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=124, z=-2217} BlockPos{x=-167, y=124, z=-2218}
+[06Jun2025 05:34:56.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=124, z=-2217} BlockPos{x=-167, y=124, z=-2218}
+[06Jun2025 05:34:57.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=124, z=-2217} BlockPos{x=-167, y=124, z=-2218}
+[06Jun2025 05:36:35.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=120, z=-2207} BlockPos{x=-169, y=120, z=-2206}
+[06Jun2025 05:36:36.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=120, z=-2208} BlockPos{x=-168, y=119, z=-2207}
+[06Jun2025 05:38:27.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=118, z=-2191} BlockPos{x=-180, y=119, z=-2190}
+[06Jun2025 05:41:10.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was shot by Huntsman
+[06Jun2025 05:41:10.054] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-209, 118, -2207) minecraft:overworld
+[06Jun2025 05:41:44.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was shot by Huntsman
+[06Jun2025 05:41:44.353] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-208, 114, -2199) minecraft:overworld
+[06Jun2025 05:42:02.611] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
