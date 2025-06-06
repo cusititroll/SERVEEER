@@ -8138,5 +8138,11 @@
     },
     "done": true
   },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2025-06-06 05:26:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -12494,12 +12494,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-06-06 05:03:42 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-06-06 04:33:29 +0000"
@@ -12509,6 +12503,18 @@
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-06-06 04:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
     },
     "done": true
   },
@@ -12557,6 +12563,12 @@
   "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
     "criteria": {
       "has_white_trillium": "2025-06-06 03:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
     },
     "done": true
   },
@@ -12680,6 +12692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 04:33:29 +0000"
@@ -12704,9 +12722,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
     },
     "done": true
   },
@@ -12749,6 +12779,12 @@
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2025-06-06 04:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
     },
     "done": true
   },
