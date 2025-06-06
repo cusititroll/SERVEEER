@@ -8006,9 +8006,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/squid_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2025-06-06 22:23:08 +0000"
     },
     "done": true
   },
@@ -8048,6 +8066,18 @@
     },
     "done": true
   },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2025-06-06 22:23:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_golem_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
@@ -8060,6 +8090,24 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_cherry_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_birch_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/bat_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
@@ -8069,6 +8117,18 @@
   "minecraft:recipes/tools/skeleton_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
     },
     "done": true
   },
@@ -8090,6 +8150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/bookshelf_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
@@ -8099,6 +8165,12 @@
   "minecraft:recipes/tools/coal_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
     },
     "done": true
   },
@@ -8120,6 +8192,24 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_crimson_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-06-06 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_mangrove_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/snow_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
@@ -8132,15 +8222,45 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/sheep_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/hay_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
     },
     "done": true
   },
@@ -8180,9 +8300,27 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_crimson_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/cactus_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_crimson_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
     },
     "done": true
   },
@@ -8204,6 +8342,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/sunbird_blessing": {
     "criteria": {
       "all_effects": "2025-06-06 22:04:23 +0000"
@@ -8219,6 +8363,24 @@
   "aether:recipes/tools/skyroot_pickaxe_repairing": {
     "criteria": {
       "has_skyroot_pickaxe": "2025-06-06 22:15:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-06-06 22:22:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
     },
     "done": true
   },
@@ -8240,9 +8402,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_sofa": {
+    "criteria": {
+      "has_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_ring": "2025-06-06 22:16:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
     },
     "done": true
   },
@@ -8255,6 +8435,12 @@
   "minecraft:recipes/tools/enderman_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2025-06-06 22:23:08 +0000"
     },
     "done": true
   },
@@ -8282,9 +8468,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_jungle_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/blaze_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_jungle_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
     },
     "done": true
   },
@@ -8318,15 +8516,51 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_jungle_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_curtain": {
+    "criteria": {
+      "has_item": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/redstone_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_warped_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "aether:blue_aercloud": {
     "criteria": {
       "blue_aercloud": "2025-06-06 22:11:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/pink_sleeping_bag": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
     },
     "done": true
   },
@@ -8348,6 +8582,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_dark_oak_chair": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/villager_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
@@ -8357,6 +8597,12 @@
   "minecraft:recipes/tools/dragon_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_stool": {
+    "criteria": {
+      "has_pink_wool": "2025-06-06 22:22:02 +0000"
     },
     "done": true
   },

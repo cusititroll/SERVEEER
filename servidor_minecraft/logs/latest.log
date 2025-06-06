@@ -1512,3 +1512,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jun2025 22:16:43.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Baby Food]
 [06Jun2025 22:18:53.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
 [06Jun2025 22:19:06.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[06Jun2025 22:22:50.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Baby Food]
+[06Jun2025 22:25:40.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:54837] logged in with entity id 159725 at (-945.2412512512847, 81.0, -738.4121904284111)
+[06Jun2025 22:25:40.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
+[06Jun2025 22:25:41.045] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
+[06Jun2025 22:27:40.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP moved too quickly! -9.289332897551276,13.0,-31.76942417871487
+[06Jun2025 22:28:13.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP moved too quickly! -8.566320097668779,0.001335979112141672,10.948196798323352
+[06Jun2025 22:29:45.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> esperen 5
+[06Jun2025 22:30:36.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has reached the goal [Eye of Darkness]
