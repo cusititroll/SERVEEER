@@ -1174,11 +1174,13 @@
       "minecraft:blaze": "2025-06-03 03:44:31 +0000",
       "minecraft:skeleton": "2025-05-26 03:03:28 +0000",
       "minecraft:ravager": "2025-05-31 04:54:00 +0000",
+      "minecraft:hoglin": "2025-06-06 21:29:55 +0000",
       "minecraft:vindicator": "2025-05-31 04:50:38 +0000",
       "minecraft:spider": "2025-05-30 03:51:11 +0000",
       "minecraft:piglin_brute": "2025-06-03 03:32:33 +0000",
       "minecraft:creeper": "2025-05-31 03:33:10 +0000",
       "minecraft:evoker": "2025-05-31 04:54:56 +0000",
+      "minecraft:slime": "2025-06-06 21:32:38 +0000",
       "minecraft:phantom": "2025-06-05 02:28:48 +0000",
       "minecraft:witch": "2025-05-31 01:53:56 +0000",
       "minecraft:wither_skeleton": "2025-06-03 03:56:09 +0000",
@@ -6538,7 +6540,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-05 02:47:07 +0000",
-      "minecraft:nether_wastes": "2025-06-05 02:15:06 +0000"
+      "minecraft:nether_wastes": "2025-06-05 02:15:06 +0000",
+      "minecraft:soul_sand_valley": "2025-06-06 21:30:07 +0000"
     },
     "done": false
   },
@@ -6999,6 +7002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-06 21:37:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-06-06 21:08:44 +0000"
@@ -7026,6 +7035,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-06-06 21:23:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-06-06 21:32:42 +0000"
     },
     "done": true
   },

@@ -8151,5 +8151,275 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_warped_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_cherry_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_stool": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_stool": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_jungle_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_fabric_desk_lamp": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/red_cape": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_stool": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_jungle_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_mangrove_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/red_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_oak_stool": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_stool": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_crimson_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_stool": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_curtain": {
+    "criteria": {
+      "has_item": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_red_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_stool": {
+    "criteria": {
+      "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
