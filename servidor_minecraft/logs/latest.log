@@ -1480,3 +1480,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jun2025 21:35:21.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-309, y=15, z=-614} BlockPos{x=-309, y=16, z=-611}
 [06Jun2025 21:35:28.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
 [06Jun2025 21:35:47.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4180ms or 83 ticks behind
+[06Jun2025 21:39:43.789] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/124519, l='ServerLevel[AAAA]', x=-263.53, y=112.00, z=-2208.43] died, message: 'Cleric was slain by Zombie'
+[06Jun2025 21:40:57.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/126210, l='ServerLevel[AAAA]', x=-263.30, y=112.00, z=-2207.35] died, message: 'Cleric was slain by Zombie Villager'
+[06Jun2025 21:41:13.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[06Jun2025 21:41:13.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[06Jun2025 21:44:14.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/130230, l='ServerLevel[AAAA]', x=-263.67, y=112.00, z=-2206.67] died, message: 'Cleric was slain by Zombie Villager'
+[06Jun2025 21:44:40.918] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Isaaac_173 with unique ID 837c5cc4-628b-4e63-a724-3900e242a762
+[06Jun2025 21:44:40.919] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -258 Y: 112 Z: -2232
+[06Jun2025 21:44:40.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Slugger
+[06Jun2025 21:44:40.929] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-259, 112, -2233) minecraft:overworld
+[06Jun2025 21:44:50.135] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 21:45:23.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/131605, l='ServerLevel[AAAA]', x=-262.30, y=112.00, z=-2207.48] died, message: 'Cleric was slain by Zombie Villager'
+[06Jun2025 21:45:37.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Hostile Paradise]
+[06Jun2025 21:46:47.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Hostile Paradise]
+[06Jun2025 21:50:34.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Baby Food]
+[06Jun2025 21:55:28.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has completed the challenge [The Power of the Sun]
+[06Jun2025 22:04:23.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has completed the challenge [The Power of the Sun]
+[06Jun2025 22:04:24.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Don't Count Your Moas...]
+[06Jun2025 22:05:05.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Hostile Paradise]
+[06Jun2025 22:07:11.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.74.19.90:37303] logged in with entity id 148804 at (-263.8230534948846, 115.0, -2207.1781787875593)
+[06Jun2025 22:07:11.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
+[06Jun2025 22:07:11.910] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
+[06Jun2025 22:08:02.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [The More You Know!]
+[06Jun2025 22:09:34.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made panagamerp a server operator
+[06Jun2025 22:09:48.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made PandagamerP a server operator
+[06Jun2025 22:09:49.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[06Jun2025 22:09:59.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[06Jun2025 22:11:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [To Infinity and Beyond!]
+[06Jun2025 22:11:30.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [To Infinity and Beyond!]
+[06Jun2025 22:13:31.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Exotic Hardware]
+[06Jun2025 22:16:43.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Baby Food]
+[06Jun2025 22:18:53.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[06Jun2025 22:19:06.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]

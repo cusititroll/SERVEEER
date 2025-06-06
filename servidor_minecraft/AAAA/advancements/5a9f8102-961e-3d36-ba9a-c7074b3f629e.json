@@ -8193,6 +8193,12 @@
     },
     "done": true
   },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-06-06 21:46:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-06 21:33:38 +0000"
@@ -8232,6 +8238,12 @@
   "cfm:recipes/decorations/red_sofa": {
     "criteria": {
       "has_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-06-06 21:50:34 +0000"
     },
     "done": true
   },
@@ -8298,6 +8310,18 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
     "criteria": {
       "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-06-06 21:39:51 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-06-06 21:50:34 +0000"
     },
     "done": true
   },
@@ -8394,6 +8418,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-06-06 21:46:47 +0000"
     },
     "done": true
   },

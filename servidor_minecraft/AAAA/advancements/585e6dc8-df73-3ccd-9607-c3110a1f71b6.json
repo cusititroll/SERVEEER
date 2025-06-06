@@ -12818,5 +12818,17 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-06-06 22:10:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-06-06 22:16:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
