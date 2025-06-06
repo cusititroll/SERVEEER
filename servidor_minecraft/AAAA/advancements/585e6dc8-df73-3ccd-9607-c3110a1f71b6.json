@@ -12800,5 +12800,29 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-06 21:14:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-06 21:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-06 21:06:08 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_step_to_the_end": {
+    "criteria": {
+      "criteria": "2025-06-06 21:06:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
