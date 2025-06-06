@@ -12494,77 +12494,149 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "has_white_trillium": "2025-06-06 03:37:27 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:main/sludge": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "killed_sludge": "2025-06-06 03:38:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "valhelsia_furniture:recipes/decorations/orange_warped_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "valhelsia_furniture:recipes/decorations/orange_dark_oak_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "valhelsia_furniture:recipes/decorations/orange_cherry_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "valhelsia_furniture:recipes/decorations/orange_jungle_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "valhelsia_furniture:recipes/decorations/orange_crimson_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "valhelsia_furniture:recipes/decorations/orange_birch_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "valhelsia_furniture:recipes/decorations/orange_oak_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "valhelsia_furniture:recipes/decorations/orange_spruce_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "valhelsia_furniture:recipes/decorations/orange_mangrove_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "valhelsia_furniture:recipes/decorations/orange_acacia_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 06:35:42 +0000"
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-06 04:05:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/yellow_dye_from_yellow_lupine": {
+    "criteria": {
+      "has_yellow_lupine": "2025-06-06 04:15:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_red_lupine": {
+    "criteria": {
+      "has_red_lupine": "2025-06-06 04:15:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2025-06-06 04:16:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/orange_dye_from_day_lily": {
+    "criteria": {
+      "has_day_lily": "2025-06-06 04:19:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-06-06 04:26:44 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
@@ -12575,30 +12647,6 @@
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-06-06 04:33:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_warped_table": {
-    "criteria": {
-      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
     },
     "done": true
   },
@@ -12620,27 +12668,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/orange_dark_oak_table": {
-    "criteria": {
-      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 04:33:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
-    "criteria": {
-      "has_white_trillium": "2025-06-06 03:37:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
     },
     "done": true
   },
@@ -12656,99 +12686,15 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/orange_cherry_table": {
-    "criteria": {
-      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/yellow_dye_from_yellow_lupine": {
-    "criteria": {
-      "has_yellow_lupine": "2025-06-06 04:15:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/birch_shrub": {
-    "criteria": {
-      "has_birch_sapling": "2025-06-06 04:43:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-06-06 04:05:16 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_jungle_table": {
-    "criteria": {
-      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/red_dye_from_red_lupine": {
-    "criteria": {
-      "has_red_lupine": "2025-06-06 04:15:56 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_crimson_table": {
-    "criteria": {
-      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_birch_table": {
-    "criteria": {
-      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_wood": "2025-06-06 04:33:29 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/orange_oak_table": {
-    "criteria": {
-      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-06 04:33:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_spruce_table": {
-    "criteria": {
-      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
     },
     "done": true
   },
@@ -12764,21 +12710,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 04:33:29 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_shovel_repairing": {
-    "criteria": {
-      "has_iron_shovel": "2025-06-06 04:26:44 +0000"
     },
     "done": true
   },
@@ -12794,33 +12728,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 04:33:29 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_mangrove_table": {
-    "criteria": {
-      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
     "done": true
   },
@@ -12830,33 +12740,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
-    "criteria": {
-      "has_purple_lupine": "2025-06-06 04:16:19 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/orange_dye_from_day_lily": {
-    "criteria": {
-      "has_day_lily": "2025-06-06 04:19:43 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_acacia_table": {
-    "criteria": {
-      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2025-06-06 04:33:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
     },
     "done": true
   },
@@ -12866,9 +12752,51 @@
     },
     "done": true
   },
-  "minecraft:main/sludge": {
+  "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
-      "killed_sludge": "2025-06-06 03:38:56 +0000"
+      "has_birch_sapling": "2025-06-06 04:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-06 05:17:06 +0000"
     },
     "done": true
   },
