@@ -12303,135 +12303,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "ecologics:recipes/ecologics/coconut_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 03:19:34 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/decorations/maple_shrub": {
-    "criteria": {
-      "has_maple_sapling": "2025-06-05 01:54:56 +0000"
+      "has_log": "2025-06-05 01:22:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+  "ecologics:recipes/ecologics/coconut_planks": {
     "criteria": {
-      "has_glass": "2025-06-05 02:42:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-06-05 01:33:03 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/blue_glazed_jar": {
-    "criteria": {
-      "has_blue_terracotta": "2025-06-05 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-06-05 01:33:03 +0000"
+      "has_logs": "2025-06-05 01:22:55 +0000"
     },
     "done": true
   },
   "ecologics:recipes/ecologics/coconut_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-05 01:23:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-06-05 01:35:30 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/cooked_prickly_pear_from_campfire_cooking": {
-    "criteria": {
-      "cooked_prickly_pear": "2025-06-05 01:33:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-06-05 01:33:03 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/cooked_prickly_pear": {
-    "criteria": {
-      "cooked_prickly_pear": "2025-06-05 01:33:19 +0000"
     },
     "done": true
   },
@@ -12447,24 +12333,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-06-05 01:44:32 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:soulpyre": {
-    "criteria": {
-      "requirement": "2025-06-05 01:43:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-06-05 02:17:56 +0000"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/coconut_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-05 01:23:00 +0000"
@@ -12474,30 +12342,6 @@
   "ecologics:recipes/ecologics/coconut_door": {
     "criteria": {
       "has_planks": "2025-06-05 01:23:00 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/coconut_wood": {
-    "criteria": {
-      "has_log": "2025-06-05 01:22:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-06-05 01:33:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-06-05 01:35:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2025-06-05 01:35:35 +0000"
     },
     "done": true
   },
@@ -12525,15 +12369,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-05 01:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-05 01:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-05 01:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-05 01:33:03 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/cooked_prickly_pear_from_campfire_cooking": {
+    "criteria": {
+      "cooked_prickly_pear": "2025-06-05 01:33:19 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/cooked_prickly_pear": {
+    "criteria": {
+      "cooked_prickly_pear": "2025-06-05 01:33:19 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/cooked_prickly_pear_from_smoking": {
     "criteria": {
       "cooked_prickly_pear": "2025-06-05 01:33:19 +0000"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/coconut_planks": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
-      "has_logs": "2025-06-05 01:22:55 +0000"
+      "has_cut_sandstone": "2025-06-05 01:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-05 01:35:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/blue_glazed_jar": {
+    "criteria": {
+      "has_blue_terracotta": "2025-06-05 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-06-05 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_blue_glazed_jar": {
+    "criteria": {
+      "has_blue_terracotta": "2025-06-05 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulpyre": {
+    "criteria": {
+      "requirement": "2025-06-05 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-06-05 01:44:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_shrub": {
+    "criteria": {
+      "has_maple_sapling": "2025-06-05 01:54:56 +0000"
     },
     "done": true
   },
@@ -12543,9 +12465,15 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/big_blue_glazed_jar": {
+  "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "has_blue_terracotta": "2025-06-05 01:35:35 +0000"
+      "has_glowstone": "2025-06-05 02:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-05 02:42:38 +0000"
     },
     "done": true
   },
