@@ -7920,6 +7920,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-06 01:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-06 01:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-06 01:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-06 01:46:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-06-06 01:19:50 +0000"
@@ -7932,15 +7956,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-06 01:46:29 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/painting": {
     "criteria": {
       "has_item": "2025-06-06 01:19:50 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-06-06 01:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-06 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-06-06 02:10:49 +0000"
     },
     "done": true
   },

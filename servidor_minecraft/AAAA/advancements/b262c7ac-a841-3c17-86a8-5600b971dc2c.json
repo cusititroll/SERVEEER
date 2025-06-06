@@ -128,8 +128,10 @@
       "pine_slopes": "2025-05-31 04:11:04 +0000",
       "grassland": "2025-05-26 02:52:51 +0000",
       "prairie": "2025-05-31 04:23:33 +0000",
+      "gravel_beach": "2025-06-06 02:10:18 +0000",
       "redwoods": "2025-05-26 02:55:27 +0000",
-      "bioshroom_caves": "2025-05-31 04:05:05 +0000"
+      "bioshroom_caves": "2025-05-31 04:05:05 +0000",
+      "lupine_plains": "2025-06-06 02:02:26 +0000"
     },
     "done": false
   },
@@ -153,7 +155,9 @@
       "pine_slopes": "2025-05-31 04:11:04 +0000",
       "grassland": "2025-05-26 02:52:51 +0000",
       "prairie": "2025-05-31 04:23:33 +0000",
-      "redwoods": "2025-05-26 02:55:27 +0000"
+      "gravel_beach": "2025-06-06 02:10:18 +0000",
+      "redwoods": "2025-05-26 02:55:27 +0000",
+      "lupine_plains": "2025-06-06 02:02:26 +0000"
     },
     "done": false
   },
@@ -1149,8 +1153,10 @@
       "minecraft:dripstone_caves": "2025-05-31 04:06:42 +0000",
       "minecraft:grove": "2025-05-31 04:06:12 +0000",
       "minecraft:jagged_peaks": "2025-05-31 04:06:18 +0000",
+      "minecraft:cold_ocean": "2025-06-06 02:12:07 +0000",
       "minecraft:forest": "2025-06-01 23:55:39 +0000",
       "minecraft:lush_caves": "2025-05-31 03:52:37 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-06 02:15:42 +0000",
       "minecraft:ocean": "2025-05-31 04:05:22 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-28 00:16:17 +0000",
       "minecraft:flower_forest": "2025-05-31 03:29:19 +0000",
@@ -6921,15 +6927,33 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-06-05 16:26:52 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2025-06-05 16:28:21 +0000"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/pot": {
+  "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
-      "has_terracotta": "2025-06-05 16:26:52 +0000"
+      "has_leather_helmet": "2025-06-06 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-06-06 01:47:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-06 01:49:33 +0000"
     },
     "done": true
   },
