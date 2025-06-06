@@ -5494,5 +5494,53 @@
     },
     "done": true
   },
+  "minecraft:main/cultivator": {
+    "criteria": {
+      "cultivator": "2025-06-06 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-06-06 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/analyzer": {
+    "criteria": {
+      "anaylzer": "2025-06-06 04:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-06 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-06 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-06-06 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-06-06 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_oak_post": {
+    "criteria": {
+      "has_item": "2025-06-06 04:03:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

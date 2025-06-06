@@ -12494,9 +12494,111 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_warped_table": {
+    "criteria": {
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_dark_oak_table": {
+    "criteria": {
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
     "criteria": {
       "has_white_trillium": "2025-06-06 03:37:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_cherry_table": {
+    "criteria": {
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-06 04:05:16 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_jungle_table": {
+    "criteria": {
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_crimson_table": {
+    "criteria": {
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_birch_table": {
+    "criteria": {
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_oak_table": {
+    "criteria": {
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_spruce_table": {
+    "criteria": {
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-06 03:53:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_mangrove_table": {
+    "criteria": {
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_acacia_table": {
+    "criteria": {
+      "has_orange_carpet": "2025-06-06 03:51:53 +0000"
     },
     "done": true
   },
