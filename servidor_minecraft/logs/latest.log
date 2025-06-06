@@ -1280,3 +1280,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jun2025 01:13:18.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT joined the game
 [06Jun2025 01:13:18.185] [Server thread/INFO] [Jade/]: Syncing config to BgodYT (1c229215-0b7b-38ec-9abe-86a230eede90)
 [06Jun2025 01:15:11.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has completed the challenge [Cover Me in Debris]
+[06Jun2025 01:35:18.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.40.0.99:40031] logged in with entity id 23394 at (-278.5745889480934, 128.0, -2226.4615884606396)
+[06Jun2025 01:35:18.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[06Jun2025 01:35:18.600] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
