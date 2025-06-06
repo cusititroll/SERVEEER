@@ -1063,6 +1063,7 @@
       "bread": "2025-05-27 04:17:03 +0000",
       "rotten_flesh": "2025-05-26 03:09:19 +0000",
       "suspicious_stew": "2025-06-06 22:30:40 +0000",
+      "glow_berries": "2025-06-06 22:52:33 +0000",
       "golden_carrot": "2025-06-04 22:15:24 +0000",
       "cooked_chicken": "2025-05-31 03:49:44 +0000",
       "mushroom_stew": "2025-05-31 03:33:07 +0000",
@@ -8003,6 +8004,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-06-06 22:57:30 +0000",
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/gold_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-06 21:54:31 +0000"
@@ -8069,9 +8143,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 22:47:43 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/swet_lead": {
     "criteria": {
       "has_swet_balls": "2025-06-06 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 22:47:43 +0000"
     },
     "done": true
   },
@@ -8156,6 +8242,12 @@
   "aether:recipes/redstone/swet_slime_block": {
     "criteria": {
       "has_swet_balls": "2025-06-06 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2025-06-06 22:49:29 +0000"
     },
     "done": true
   },
@@ -8279,6 +8371,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 22:47:43 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-06-06 22:51:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2025-06-06 22:22:02 +0000"
@@ -8288,6 +8392,12 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_chair": {
     "criteria": {
       "has_pink_wool": "2025-06-06 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/sacrificial_ritual": {
+    "criteria": {
+      "requirement": "2025-06-06 22:49:08 +0000"
     },
     "done": true
   },
@@ -8306,6 +8416,12 @@
   "aether:read_lore": {
     "criteria": {
       "lore_book_entry": "2025-06-06 22:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 22:47:43 +0000"
     },
     "done": true
   },
@@ -8549,6 +8665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 22:47:43 +0000"
+    },
+    "done": true
+  },
   "stellarity:adventure/night_sky_stalkers": {
     "criteria": {
       "sleep_deprivation": "2025-06-06 21:01:02 +0000"
@@ -8654,6 +8776,12 @@
   "stellarity:recipes/glass_from_end_stone": {
     "criteria": {
       "has_item": "2025-06-06 22:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 22:47:43 +0000"
     },
     "done": true
   },

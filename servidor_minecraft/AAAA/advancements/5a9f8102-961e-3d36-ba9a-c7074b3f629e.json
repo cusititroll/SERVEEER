@@ -8152,6 +8152,84 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:56:35 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-06-06 22:50:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-06-06 21:33:38 +0000"
@@ -8194,6 +8272,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-06-06 22:53:16 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_chair": {
     "criteria": {
       "has_red_wool": "2025-06-06 21:33:47 +0000"
@@ -8203,6 +8287,12 @@
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2025-06-06 21:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-06 22:47:53 +0000"
     },
     "done": true
   },
@@ -8227,6 +8317,18 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2025-06-06 21:33:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-06-06 22:50:17 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2025-06-06 22:49:29 +0000"
     },
     "done": true
   },
@@ -8284,6 +8386,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-06-06 22:54:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2025-06-06 21:33:38 +0000"
@@ -8293,6 +8401,12 @@
   "valhelsia_furniture:recipes/decorations/red_fabric_desk_lamp": {
     "criteria": {
       "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/sacrificial_ritual": {
+    "criteria": {
+      "requirement": "2025-06-06 22:49:08 +0000"
     },
     "done": true
   },
@@ -8380,6 +8494,12 @@
     },
     "done": true
   },
+  "stellarity:recipes/purple_dye_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-06-06 22:47:53 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/red_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_color": "2025-06-06 21:33:38 +0000"
@@ -8425,6 +8545,12 @@
   "comforts:hammock_red": {
     "criteria": {
       "has_red_wool": "2025-06-06 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-06-06 22:47:53 +0000"
     },
     "done": true
   },

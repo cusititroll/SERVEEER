@@ -1563,3 +1563,67 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jun2025 22:50:54.420] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 19 Y: 94 Z: 56
 [06Jun2025 22:50:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was killed by entity.epicfight.area_effect_breath using magic
 [06Jun2025 22:50:54.455] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(18, 94, 56) minecraft:the_end
+[06Jun2025 22:51:31.370] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 22:51:31.370] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 22:51:31.370] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 22:51:49.410] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BgodYT with unique ID a527565b-7a97-4b89-9d77-e37c5f542c4e
+[06Jun2025 22:51:49.410] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 18 Y: 94 Z: 62
+[06Jun2025 22:51:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was killed by entity.epicfight.area_effect_breath using magic
+[06Jun2025 22:51:49.413] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(17, 94, 62) minecraft:the_end
+[06Jun2025 22:52:36.867] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 22:52:37.913] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xZ3r0kx with unique ID 8b99d860-fd73-4850-9192-500ea5f15fa3
+[06Jun2025 22:52:37.915] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 16 Y: 94 Z: 55
+[06Jun2025 22:52:37.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was killed by entity.epicfight.area_effect_breath using magic
+[06Jun2025 22:52:37.918] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(16, 94, 56) minecraft:the_end
+[06Jun2025 22:53:14.180] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 22:53:14.180] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 zanite_ring
+[06Jun2025 22:53:14.180] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[06Jun2025 22:53:14.180] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 22:53:14.180] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 22:53:16.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Race Against The Clock]
+[06Jun2025 22:53:19.910] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Isaaac_173 with unique ID 7a6ed535-d101-4e39-9d4e-da71de1f52f0
+[06Jun2025 22:53:19.910] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 54 Y: 73 Z: -38
+[06Jun2025 22:53:19.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was killed by entity.epicfight.area_effect_breath using magic
+[06Jun2025 22:53:19.912] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(53, 73, -41) minecraft:the_end
+[06Jun2025 22:53:29.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by End Enderman
+[06Jun2025 22:53:39.774] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MICHE019 with unique ID dffabbe1-4e2b-4298-a259-9c54585874db
+[06Jun2025 22:53:39.775] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 58 Y: 61 Z: 2
+[06Jun2025 22:53:39.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 was killed by entity.epicfight.area_effect_breath using magic
+[06Jun2025 22:53:39.778] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(58, 53, 2) minecraft:the_end
+[06Jun2025 22:53:57.061] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 22:54:11.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by End Enderman
+[06Jun2025 22:54:46.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by End Enderman
+[06Jun2025 22:54:46.309] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(55, 50, -46) minecraft:the_end
+[06Jun2025 22:54:49.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Ice Bucket Challenge]
+[06Jun2025 22:54:49.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[06Jun2025 22:54:55.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[06Jun2025 22:55:04.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by End Enderman
+[06Jun2025 22:55:24.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by End Enderman
+[06Jun2025 22:55:42.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by End Enderman
+[06Jun2025 22:55:42.758] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(57, 50, -45) minecraft:the_end
+[06Jun2025 22:56:35.761] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Jun2025 22:57:20.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6000ms or 120 ticks behind
+[06Jun2025 22:57:20.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 moved too quickly! -9.615154728374932,2.249187078744683,-2.537394394111129
+[06Jun2025 22:57:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jun2025 22:57:40.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jun2025 22:57:40.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Server closed
+[06Jun2025 22:57:40.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[06Jun2025 22:57:40.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xZ3r0kx lost connection: Server closed
+[06Jun2025 22:57:40.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx left the game
+[06Jun2025 22:57:40.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 lost connection: Server closed
+[06Jun2025 22:57:40.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 left the game
+[06Jun2025 22:57:40.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jun2025 22:57:40.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:overworld
+[06Jun2025 22:57:41.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/aether:the_aether
+[06Jun2025 22:57:41.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/twilightforest:twilight_forest
+[06Jun2025 22:57:41.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_end
+[06Jun2025 22:57:45.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_nether
+[06Jun2025 22:57:45.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/deeperdarker:otherside
+[06Jun2025 22:57:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (AAAA): All chunks are saved
+[06Jun2025 22:57:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[06Jun2025 22:57:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Jun2025 22:57:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jun2025 22:57:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jun2025 22:57:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[06Jun2025 22:57:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jun2025 22:57:46.201] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
