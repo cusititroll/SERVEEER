@@ -138,6 +138,7 @@
       "gravel_beach": "2025-05-20 03:40:29 +0000",
       "redwoods": "2025-05-18 04:11:23 +0000",
       "golden_boreal_taiga": "2025-06-06 03:24:02 +0000",
+      "bioshroom_caves": "2025-06-07 06:21:41 +0000",
       "lupine_plains": "2025-05-20 03:41:33 +0000"
     },
     "done": false
@@ -7072,6 +7073,7 @@
     "criteria": {
       "redstone_caves": "2025-05-19 23:35:46 +0000",
       "scorching_caves": "2025-05-19 22:57:08 +0000",
+      "bioshroom_caves": "2025-06-07 06:21:41 +0000",
       "ancient_delta": "2025-05-20 01:14:29 +0000"
     },
     "done": false
@@ -13788,9 +13790,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2025-06-07 06:05:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
     },
     "done": true
   },
@@ -13824,9 +13838,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_warped_table": {
     "criteria": {
       "has_purple_carpet": "2025-06-07 06:04:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
     },
     "done": true
   },
@@ -13842,6 +13868,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-06-07 06:05:16 +0000"
@@ -13851,6 +13889,24 @@
   "valhelsia_furniture:recipes/decorations/purple_cherry_table": {
     "criteria": {
       "has_purple_carpet": "2025-06-07 06:04:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-06-07 06:21:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
     },
     "done": true
   },
@@ -13872,6 +13928,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/purple_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_color": "2025-06-07 06:05:08 +0000"
@@ -13887,6 +13949,12 @@
   "valhelsia_furniture:recipes/decorations/purple_dark_oak_table": {
     "criteria": {
       "has_purple_carpet": "2025-06-07 06:04:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
     },
     "done": true
   },
@@ -13908,6 +13976,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_picket_fence": {
     "criteria": {
       "has_concrete": "2025-06-07 06:04:45 +0000"
@@ -13926,6 +14000,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/mangrove_desk_drawer": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-07 06:05:08 +0000"
@@ -13938,6 +14024,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-06-07 06:18:26 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_spruce_table": {
     "criteria": {
       "has_purple_carpet": "2025-06-07 06:04:46 +0000"
@@ -13947,6 +14045,12 @@
   "valhelsia_furniture:recipes/decorations/purple_jungle_table": {
     "criteria": {
       "has_purple_carpet": "2025-06-07 06:04:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/vangrove_banister": {
+    "criteria": {
+      "has_item": "2025-06-07 06:18:26 +0000"
     },
     "done": true
   },

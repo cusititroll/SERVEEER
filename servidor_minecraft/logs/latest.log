@@ -1296,3 +1296,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 06:12:58.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isaaac_173[/127.121.81.23:38213] logged in with entity id 11280 at (-264.01290160274874, 129.875, -2260.992441816765)
 [07Jun2025 06:12:58.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 joined the game
 [07Jun2025 06:12:58.840] [Server thread/INFO] [Jade/]: Syncing config to Isaaac_173 (5a9f8102-961e-3d36-ba9a-c7074b3f629e)
+[07Jun2025 06:26:22.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 moved wrongly!
+[07Jun2025 06:26:53.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [From The Shadows]
+[07Jun2025 06:29:19.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Maybe Don't Touch it]
+[07Jun2025 06:30:42.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has reached the goal [Sky's the Limit]
+[07Jun2025 06:30:45.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has reached the goal [Sky's the Limit]
+[07Jun2025 06:31:14.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Lightning Strikes Twice]
+[07Jun2025 06:36:19.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 lost connection: Disconnected
+[07Jun2025 06:36:19.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 left the game
+[07Jun2025 06:40:36.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has reached the goal [Hunted]
+[07Jun2025 06:46:57.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has completed the challenge [Super Sonic]
+[07Jun2025 06:48:09.000] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Isaaac_173 with unique ID 08384bba-7082-42f7-978e-208014a3bbb2
+[07Jun2025 06:48:09.001] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -246 Y: 112 Z: -2214
+[07Jun2025 06:48:09.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was killed by PandagamerP using magic
+[07Jun2025 06:48:09.017] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-247, 112, -2215) minecraft:overworld
+[07Jun2025 06:48:22.291] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Jun2025 06:48:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Wake Up!]
