@@ -8590,6 +8590,9 @@
   },
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
+      "flesh_tundra": "2025-06-07 04:19:31 +0000",
+      "frosted_hills": "2025-06-07 04:20:24 +0000",
+      "the_nest": "2025-06-07 04:15:34 +0000",
       "end_barrens": "2025-06-06 23:40:07 +0000"
     },
     "done": false
@@ -8678,6 +8681,12 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/frigid_harvester": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:20:24 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 03:35:02 +0000"
@@ -8705,6 +8714,12 @@
   "stellarity:dragons_den/cursed_tome/items/unlock_ancient_armor": {
     "criteria": {
       "requirement3": "2025-06-07 03:18:20 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/snow_bricks": {
+    "criteria": {
+      "has_snow_block": "2025-06-07 04:23:46 +0000"
     },
     "done": true
   },
@@ -8771,6 +8786,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-06-07 03:32:19 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_frigid_harvester": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:20:24 +0000"
     },
     "done": true
   },

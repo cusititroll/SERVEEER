@@ -5510,6 +5510,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_end": "2025-06-07 04:16:17 +0000",
       "in_mineshaft_taiga": "2025-06-01 04:39:19 +0000",
       "in_mineshaft_nether": "2025-05-26 01:53:29 +0000",
       "in_mineshaft_savanna": "2025-05-19 20:15:02 +0000"
@@ -12940,7 +12941,10 @@
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
       "blazing_dunes": "2025-06-07 03:58:33 +0000",
+      "flesh_tundra": "2025-06-07 04:18:08 +0000",
+      "frosted_hills": "2025-06-07 04:18:18 +0000",
       "sculk_growth": "2025-06-06 23:03:13 +0000",
+      "the_nest": "2025-06-07 04:17:41 +0000",
       "end_barrens": "2025-06-06 23:40:03 +0000"
     },
     "done": false
@@ -13125,6 +13129,12 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/frigid_harvester": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:18:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 03:27:37 +0000"
@@ -13248,6 +13258,12 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-06-07 03:49:29 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_frigid_harvester": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:18:18 +0000"
     },
     "done": true
   },
@@ -13383,11 +13399,23 @@
     },
     "done": true
   },
+  "stellarity:end_city/treasure_room": {
+    "criteria": {
+      "obtain_head": "2025-06-07 04:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-07 03:27:37 +0000"
     },
     "done": true
+  },
+  "stellarity:end_city/headhunter": {
+    "criteria": {
+      "9": "2025-06-07 04:22:18 +0000"
+    },
+    "done": false
   },
   "stellarity:cursed_tome/hallowed_armor": {
     "criteria": {
@@ -13434,6 +13462,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 03:27:37 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/bone_meal_from_chorus_flower": {
+    "criteria": {
+      "has_item": "2025-06-07 04:16:50 +0000"
     },
     "done": true
   },

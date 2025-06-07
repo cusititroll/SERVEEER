@@ -1330,3 +1330,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 04:03:55.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3129, y=64, z=-3005} BlockPos{x=-3129, y=62, z=-3005}
 [07Jun2025 04:08:35.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> [name:"Muerte 22:49:01 06-06-2025", x:1286, y:197, z:-373, dim:minecraft:the_end]
 [07Jun2025 04:09:34.713] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Jun2025 04:22:18.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [Treasure Room]

@@ -16359,3 +16359,523 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 04:12:58.260] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
 [07Jun2025 04:13:02.378] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
 [07Jun2025 04:13:55.855] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[07Jun2025 04:14:55.301] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[07Jun2025 04:14:55.301] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[07Jun2025 04:14:55.301] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: aether:moa_type
+[07Jun2025 04:14:55.301] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[07Jun2025 04:14:55.301] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[07Jun2025 04:14:55.302] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[07Jun2025 04:14:55.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save AAAA
+[07Jun2025 04:14:55.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete AAAA
+[07Jun2025 04:16:26.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1301.08, y=126.00, z=-515.53], dimensionLocationPath the_end
+[07Jun2025 04:16:26.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1301.08, y=126.00, z=-515.53] is dead or in a banned dimension the_end
+[07Jun2025 04:17:43.806] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[07Jun2025 04:18:01.855] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[07Jun2025 04:18:29.232] [Worker-Main13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main84
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: aether:moa_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[07Jun2025 04:19:55.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[07Jun2025 04:19:55.289] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[07Jun2025 04:19:55.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save AAAA
+[07Jun2025 04:19:55.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete AAAA
+[07Jun2025 04:20:59.105] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[07Jun2025 04:20:59.105] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[07Jun2025 04:22:01.812] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[07Jun2025 04:22:18.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [Treasure Room]
+[07Jun2025 04:23:31.855] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.82, y=202.69, z=-1145.11], dimensionLocationPath the_end
+[07Jun2025 04:23:31.855] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.82, y=202.69, z=-1145.11] is dead or in a banned dimension the_end
+[07Jun2025 04:23:31.902] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.77, y=202.74, z=-1145.07], dimensionLocationPath the_end
+[07Jun2025 04:23:31.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.77, y=202.74, z=-1145.07] is dead or in a banned dimension the_end
+[07Jun2025 04:23:31.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=202.78, z=-1145.03], dimensionLocationPath the_end
+[07Jun2025 04:23:31.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=202.78, z=-1145.03] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.002] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.78, y=202.79, z=-1145.05], dimensionLocationPath the_end
+[07Jun2025 04:23:32.002] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.78, y=202.79, z=-1145.05] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.053] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.84, y=202.81, z=-1145.07], dimensionLocationPath the_end
+[07Jun2025 04:23:32.053] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.84, y=202.81, z=-1145.07] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.88, y=202.84, z=-1145.09], dimensionLocationPath the_end
+[07Jun2025 04:23:32.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.88, y=202.84, z=-1145.09] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.93, y=202.86, z=-1145.10], dimensionLocationPath the_end
+[07Jun2025 04:23:32.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.93, y=202.86, z=-1145.10] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.204] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.97, y=202.90, z=-1145.12], dimensionLocationPath the_end
+[07Jun2025 04:23:32.204] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.97, y=202.90, z=-1145.12] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.254] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.00, y=202.93, z=-1145.13], dimensionLocationPath the_end
+[07Jun2025 04:23:32.254] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.00, y=202.93, z=-1145.13] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.304] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.00, y=202.93, z=-1145.13], dimensionLocationPath the_end
+[07Jun2025 04:23:32.304] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.00, y=202.93, z=-1145.13] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.07, y=203.01, z=-1145.15], dimensionLocationPath the_end
+[07Jun2025 04:23:32.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.07, y=203.01, z=-1145.15] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.404] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.07, y=203.01, z=-1145.15], dimensionLocationPath the_end
+[07Jun2025 04:23:32.404] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.07, y=203.01, z=-1145.15] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.455] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.10, y=203.05, z=-1145.16], dimensionLocationPath the_end
+[07Jun2025 04:23:32.455] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.10, y=203.05, z=-1145.16] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.503] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.14, y=203.13, z=-1145.18], dimensionLocationPath the_end
+[07Jun2025 04:23:32.503] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.14, y=203.13, z=-1145.18] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.14, y=203.13, z=-1145.18], dimensionLocationPath the_end
+[07Jun2025 04:23:32.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.14, y=203.13, z=-1145.18] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.13, y=203.20, z=-1145.17], dimensionLocationPath the_end
+[07Jun2025 04:23:32.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.13, y=203.20, z=-1145.17] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.13, y=203.20, z=-1145.17], dimensionLocationPath the_end
+[07Jun2025 04:23:32.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.13, y=203.20, z=-1145.17] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.702] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.11, y=203.20, z=-1145.15], dimensionLocationPath the_end
+[07Jun2025 04:23:32.702] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.11, y=203.20, z=-1145.15] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.01, y=203.20, z=-1145.09], dimensionLocationPath the_end
+[07Jun2025 04:23:32.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.01, y=203.20, z=-1145.09] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.802] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.01, y=203.20, z=-1145.09], dimensionLocationPath the_end
+[07Jun2025 04:23:32.802] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1732.01, y=203.20, z=-1145.09] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.852] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.86, y=203.20, z=-1145.01], dimensionLocationPath the_end
+[07Jun2025 04:23:32.852] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.86, y=203.20, z=-1145.01] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.76, y=203.20, z=-1144.99], dimensionLocationPath the_end
+[07Jun2025 04:23:32.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.76, y=203.20, z=-1144.99] is dead or in a banned dimension the_end
+[07Jun2025 04:23:32.953] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.66, y=203.20, z=-1144.98], dimensionLocationPath the_end
+[07Jun2025 04:23:32.953] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.66, y=203.20, z=-1144.98] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.002] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.66, y=203.20, z=-1144.98], dimensionLocationPath the_end
+[07Jun2025 04:23:33.002] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.66, y=203.20, z=-1144.98] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.55, y=203.20, z=-1144.97], dimensionLocationPath the_end
+[07Jun2025 04:23:33.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.55, y=203.20, z=-1144.97] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.104] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.55, y=203.20, z=-1144.97], dimensionLocationPath the_end
+[07Jun2025 04:23:33.104] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.55, y=203.20, z=-1144.97] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.153] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.55, y=203.20, z=-1144.97], dimensionLocationPath the_end
+[07Jun2025 04:23:33.153] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.55, y=203.20, z=-1144.97] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.55, y=203.20, z=-1144.97], dimensionLocationPath the_end
+[07Jun2025 04:23:33.206] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.55, y=203.20, z=-1144.97] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.253] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.52, y=203.21, z=-1144.96], dimensionLocationPath the_end
+[07Jun2025 04:23:33.253] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.52, y=203.21, z=-1144.96] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.302] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.50, y=203.23, z=-1144.95], dimensionLocationPath the_end
+[07Jun2025 04:23:33.302] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.50, y=203.23, z=-1144.95] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.353] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.50, y=203.23, z=-1144.95], dimensionLocationPath the_end
+[07Jun2025 04:23:33.353] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.50, y=203.23, z=-1144.95] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.403] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.44, y=203.28, z=-1144.92], dimensionLocationPath the_end
+[07Jun2025 04:23:33.403] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.44, y=203.28, z=-1144.92] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.454] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.40, y=203.31, z=-1144.90], dimensionLocationPath the_end
+[07Jun2025 04:23:33.454] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.40, y=203.31, z=-1144.90] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.505] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.37, y=203.35, z=-1144.89], dimensionLocationPath the_end
+[07Jun2025 04:23:33.505] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.37, y=203.35, z=-1144.89] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.37, y=203.35, z=-1144.89], dimensionLocationPath the_end
+[07Jun2025 04:23:33.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.37, y=203.35, z=-1144.89] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.33, y=203.38, z=-1144.87], dimensionLocationPath the_end
+[07Jun2025 04:23:33.604] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.33, y=203.38, z=-1144.87] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.23, y=203.46, z=-1144.86], dimensionLocationPath the_end
+[07Jun2025 04:23:33.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.23, y=203.46, z=-1144.86] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.705] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.17, y=203.50, z=-1144.86], dimensionLocationPath the_end
+[07Jun2025 04:23:33.705] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.17, y=203.50, z=-1144.86] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.12, y=203.50, z=-1144.85], dimensionLocationPath the_end
+[07Jun2025 04:23:33.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.12, y=203.50, z=-1144.85] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.805] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.07, y=203.50, z=-1144.84], dimensionLocationPath the_end
+[07Jun2025 04:23:33.805] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.07, y=203.50, z=-1144.84] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.853] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.07, y=203.50, z=-1144.84], dimensionLocationPath the_end
+[07Jun2025 04:23:33.853] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.07, y=203.50, z=-1144.84] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.907] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.95, y=203.50, z=-1144.83], dimensionLocationPath the_end
+[07Jun2025 04:23:33.907] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.95, y=203.50, z=-1144.83] is dead or in a banned dimension the_end
+[07Jun2025 04:23:33.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.88, y=203.50, z=-1144.82], dimensionLocationPath the_end
+[07Jun2025 04:23:33.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.88, y=203.50, z=-1144.82] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.004] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.88, y=203.50, z=-1144.82], dimensionLocationPath the_end
+[07Jun2025 04:23:34.004] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.88, y=203.50, z=-1144.82] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.88, y=203.50, z=-1144.82], dimensionLocationPath the_end
+[07Jun2025 04:23:34.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.88, y=203.50, z=-1144.82] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.104] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.86, y=203.50, z=-1144.80], dimensionLocationPath the_end
+[07Jun2025 04:23:34.104] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.86, y=203.50, z=-1144.80] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.155] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.84, y=203.50, z=-1144.79], dimensionLocationPath the_end
+[07Jun2025 04:23:34.155] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.84, y=203.50, z=-1144.79] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.82, y=203.50, z=-1144.78], dimensionLocationPath the_end
+[07Jun2025 04:23:34.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.82, y=203.50, z=-1144.78] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.253] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.79, y=203.50, z=-1144.77], dimensionLocationPath the_end
+[07Jun2025 04:23:34.253] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.79, y=203.50, z=-1144.77] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.302] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.76, y=203.50, z=-1144.76], dimensionLocationPath the_end
+[07Jun2025 04:23:34.302] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.76, y=203.50, z=-1144.76] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.354] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.72, y=203.50, z=-1144.75], dimensionLocationPath the_end
+[07Jun2025 04:23:34.354] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.72, y=203.50, z=-1144.75] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.402] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.68, y=203.50, z=-1144.74], dimensionLocationPath the_end
+[07Jun2025 04:23:34.402] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.68, y=203.50, z=-1144.74] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.454] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.63, y=203.50, z=-1144.73], dimensionLocationPath the_end
+[07Jun2025 04:23:34.454] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.63, y=203.50, z=-1144.73] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.510] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.59, y=203.50, z=-1144.71], dimensionLocationPath the_end
+[07Jun2025 04:23:34.510] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.59, y=203.50, z=-1144.71] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.55, y=203.50, z=-1144.70], dimensionLocationPath the_end
+[07Jun2025 04:23:34.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.55, y=203.50, z=-1144.70] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.55, y=203.50, z=-1144.70], dimensionLocationPath the_end
+[07Jun2025 04:23:34.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.55, y=203.50, z=-1144.70] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.50, y=203.50, z=-1144.69], dimensionLocationPath the_end
+[07Jun2025 04:23:34.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.50, y=203.50, z=-1144.69] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.707] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.38, y=203.50, z=-1144.66], dimensionLocationPath the_end
+[07Jun2025 04:23:34.707] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.38, y=203.50, z=-1144.66] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.32, y=203.50, z=-1144.66], dimensionLocationPath the_end
+[07Jun2025 04:23:34.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.32, y=203.50, z=-1144.66] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.804] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.32, y=203.50, z=-1144.66], dimensionLocationPath the_end
+[07Jun2025 04:23:34.805] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.32, y=203.50, z=-1144.66] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.853] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.42, y=203.50, z=-1144.48], dimensionLocationPath the_end
+[07Jun2025 04:23:34.853] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.42, y=203.50, z=-1144.48] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.904] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.55, y=203.50, z=-1144.33], dimensionLocationPath the_end
+[07Jun2025 04:23:34.904] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.55, y=203.50, z=-1144.33] is dead or in a banned dimension the_end
+[07Jun2025 04:23:34.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.66, y=203.50, z=-1144.19], dimensionLocationPath the_end
+[07Jun2025 04:23:34.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.66, y=203.50, z=-1144.19] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.003] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.76, y=203.50, z=-1144.07], dimensionLocationPath the_end
+[07Jun2025 04:23:35.003] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.76, y=203.50, z=-1144.07] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.053] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.84, y=203.50, z=-1143.95], dimensionLocationPath the_end
+[07Jun2025 04:23:35.053] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.84, y=203.50, z=-1143.95] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.102] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.84, y=203.50, z=-1143.95], dimensionLocationPath the_end
+[07Jun2025 04:23:35.103] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.84, y=203.50, z=-1143.95] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.90, y=203.50, z=-1143.85], dimensionLocationPath the_end
+[07Jun2025 04:23:35.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.90, y=203.50, z=-1143.85] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.204] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.99, y=203.50, z=-1143.67], dimensionLocationPath the_end
+[07Jun2025 04:23:35.204] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.99, y=203.50, z=-1143.67] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.252] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.99, y=203.50, z=-1143.67], dimensionLocationPath the_end
+[07Jun2025 04:23:35.252] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1730.99, y=203.50, z=-1143.67] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.303] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.06, y=203.50, z=-1143.51], dimensionLocationPath the_end
+[07Jun2025 04:23:35.303] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.06, y=203.50, z=-1143.51] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.10, y=203.50, z=-1143.43], dimensionLocationPath the_end
+[07Jun2025 04:23:35.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.10, y=203.50, z=-1143.43] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.402] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.10, y=203.50, z=-1143.43], dimensionLocationPath the_end
+[07Jun2025 04:23:35.402] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.10, y=203.50, z=-1143.43] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.452] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.14, y=203.50, z=-1143.36], dimensionLocationPath the_end
+[07Jun2025 04:23:35.453] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.14, y=203.50, z=-1143.36] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.505] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.22, y=203.50, z=-1143.30], dimensionLocationPath the_end
+[07Jun2025 04:23:35.505] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.22, y=203.50, z=-1143.30] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.22, y=203.50, z=-1143.30], dimensionLocationPath the_end
+[07Jun2025 04:23:35.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.22, y=203.50, z=-1143.30] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.602] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.31, y=203.50, z=-1143.29], dimensionLocationPath the_end
+[07Jun2025 04:23:35.602] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.31, y=203.50, z=-1143.29] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.36, y=203.50, z=-1143.28], dimensionLocationPath the_end
+[07Jun2025 04:23:35.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.36, y=203.50, z=-1143.28] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.702] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.40, y=203.50, z=-1143.26], dimensionLocationPath the_end
+[07Jun2025 04:23:35.702] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.40, y=203.50, z=-1143.26] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.45, y=203.50, z=-1143.24], dimensionLocationPath the_end
+[07Jun2025 04:23:35.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.45, y=203.50, z=-1143.24] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.801] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.50, y=203.50, z=-1143.21], dimensionLocationPath the_end
+[07Jun2025 04:23:35.801] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.50, y=203.50, z=-1143.21] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.852] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.55, y=203.50, z=-1143.18], dimensionLocationPath the_end
+[07Jun2025 04:23:35.853] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.55, y=203.50, z=-1143.18] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.902] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.59, y=203.50, z=-1143.14], dimensionLocationPath the_end
+[07Jun2025 04:23:35.902] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.59, y=203.50, z=-1143.14] is dead or in a banned dimension the_end
+[07Jun2025 04:23:35.957] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.64, y=203.50, z=-1143.11], dimensionLocationPath the_end
+[07Jun2025 04:23:35.957] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.64, y=203.50, z=-1143.11] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.002] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.64, y=203.50, z=-1143.11], dimensionLocationPath the_end
+[07Jun2025 04:23:36.002] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.64, y=203.50, z=-1143.11] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.054] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.68, y=203.50, z=-1143.07], dimensionLocationPath the_end
+[07Jun2025 04:23:36.054] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.68, y=203.50, z=-1143.07] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.102] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.02], dimensionLocationPath the_end
+[07Jun2025 04:23:36.102] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.02] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.151] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.99], dimensionLocationPath the_end
+[07Jun2025 04:23:36.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.99] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.203] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.97], dimensionLocationPath the_end
+[07Jun2025 04:23:36.203] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.97] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.251] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.95], dimensionLocationPath the_end
+[07Jun2025 04:23:36.251] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.95] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.302] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.93], dimensionLocationPath the_end
+[07Jun2025 04:23:36.302] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.93] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.91], dimensionLocationPath the_end
+[07Jun2025 04:23:36.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.91] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.405] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.90], dimensionLocationPath the_end
+[07Jun2025 04:23:36.406] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.90] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.451] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.88], dimensionLocationPath the_end
+[07Jun2025 04:23:36.452] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.88] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.503] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.87], dimensionLocationPath the_end
+[07Jun2025 04:23:36.503] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.87] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.551] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.86], dimensionLocationPath the_end
+[07Jun2025 04:23:36.551] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.86] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.604] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.86], dimensionLocationPath the_end
+[07Jun2025 04:23:36.604] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.86] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.87], dimensionLocationPath the_end
+[07Jun2025 04:23:36.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.87] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.702] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.88], dimensionLocationPath the_end
+[07Jun2025 04:23:36.702] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.88] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.89], dimensionLocationPath the_end
+[07Jun2025 04:23:36.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.89] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.802] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.89], dimensionLocationPath the_end
+[07Jun2025 04:23:36.802] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.89] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.853] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.93], dimensionLocationPath the_end
+[07Jun2025 04:23:36.853] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.93] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.904] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.93], dimensionLocationPath the_end
+[07Jun2025 04:23:36.904] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.93] is dead or in a banned dimension the_end
+[07Jun2025 04:23:36.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.98], dimensionLocationPath the_end
+[07Jun2025 04:23:36.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1142.98] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.006] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.00], dimensionLocationPath the_end
+[07Jun2025 04:23:37.006] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.00] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.054] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.02], dimensionLocationPath the_end
+[07Jun2025 04:23:37.054] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.02] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.05], dimensionLocationPath the_end
+[07Jun2025 04:23:37.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.05] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.158] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.05], dimensionLocationPath the_end
+[07Jun2025 04:23:37.158] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.05] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.204] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.09], dimensionLocationPath the_end
+[07Jun2025 04:23:37.204] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.09] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.251] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.11], dimensionLocationPath the_end
+[07Jun2025 04:23:37.251] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.11] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.303] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.13], dimensionLocationPath the_end
+[07Jun2025 04:23:37.303] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.13] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.13], dimensionLocationPath the_end
+[07Jun2025 04:23:37.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.13] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.403] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.17], dimensionLocationPath the_end
+[07Jun2025 04:23:37.403] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.17] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.453] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.19], dimensionLocationPath the_end
+[07Jun2025 04:23:37.453] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.19] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.506] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.20], dimensionLocationPath the_end
+[07Jun2025 04:23:37.506] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.20] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.22], dimensionLocationPath the_end
+[07Jun2025 04:23:37.552] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.22] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.23], dimensionLocationPath the_end
+[07Jun2025 04:23:37.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.23] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.25], dimensionLocationPath the_end
+[07Jun2025 04:23:37.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.25] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.703] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.26], dimensionLocationPath the_end
+[07Jun2025 04:23:37.703] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.26] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.28], dimensionLocationPath the_end
+[07Jun2025 04:23:37.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.28] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.804] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.28], dimensionLocationPath the_end
+[07Jun2025 04:23:37.804] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.28] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.852] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.30], dimensionLocationPath the_end
+[07Jun2025 04:23:37.852] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.30] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.32], dimensionLocationPath the_end
+[07Jun2025 04:23:37.903] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.32] is dead or in a banned dimension the_end
+[07Jun2025 04:23:37.953] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.33], dimensionLocationPath the_end
+[07Jun2025 04:23:37.953] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.33] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.007] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.34], dimensionLocationPath the_end
+[07Jun2025 04:23:38.007] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.34] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.054] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.36], dimensionLocationPath the_end
+[07Jun2025 04:23:38.055] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.36] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.104] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.36], dimensionLocationPath the_end
+[07Jun2025 04:23:38.104] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.70, y=203.50, z=-1143.36] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.153] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.38], dimensionLocationPath the_end
+[07Jun2025 04:23:38.153] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.38] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.202] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.39], dimensionLocationPath the_end
+[07Jun2025 04:23:38.202] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.39] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.252] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.40], dimensionLocationPath the_end
+[07Jun2025 04:23:38.252] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.40] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.304] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.41], dimensionLocationPath the_end
+[07Jun2025 04:23:38.304] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.41] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.353] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.42], dimensionLocationPath the_end
+[07Jun2025 04:23:38.353] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.42] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.405] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.43], dimensionLocationPath the_end
+[07Jun2025 04:23:38.405] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.71, y=203.50, z=-1143.43] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.452] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.44], dimensionLocationPath the_end
+[07Jun2025 04:23:38.452] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.44] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.502] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.45], dimensionLocationPath the_end
+[07Jun2025 04:23:38.502] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.45] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.45], dimensionLocationPath the_end
+[07Jun2025 04:23:38.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.45] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.604] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.46], dimensionLocationPath the_end
+[07Jun2025 04:23:38.604] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.46] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.652] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.46], dimensionLocationPath the_end
+[07Jun2025 04:23:38.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.46] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.47], dimensionLocationPath the_end
+[07Jun2025 04:23:38.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.47] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.751] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.48], dimensionLocationPath the_end
+[07Jun2025 04:23:38.751] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.48] is dead or in a banned dimension the_end
+[07Jun2025 04:23:38.802] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.48], dimensionLocationPath the_end
+[07Jun2025 04:23:38.802] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['PandagamerP'/70, l='ServerLevel[AAAA]', x=1731.72, y=203.50, z=-1143.48] is dead or in a banned dimension the_end
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: aether:moa_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[07Jun2025 04:24:55.281] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[07Jun2025 04:24:55.282] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[07Jun2025 04:24:55.282] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[07Jun2025 04:24:55.282] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[07Jun2025 04:24:55.282] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[07Jun2025 04:24:55.282] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[07Jun2025 04:24:55.282] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[07Jun2025 04:24:55.282] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[07Jun2025 04:24:55.282] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[07Jun2025 04:24:55.282] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[07Jun2025 04:24:55.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save AAAA
+[07Jun2025 04:24:55.300] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[07Jun2025 04:24:55.300] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[07Jun2025 04:24:55.302] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[07Jun2025 04:24:55.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete AAAA
