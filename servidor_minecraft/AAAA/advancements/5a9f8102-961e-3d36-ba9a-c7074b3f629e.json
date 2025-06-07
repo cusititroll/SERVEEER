@@ -3009,6 +3009,7 @@
       "minecraft:hoglin": "2025-05-26 02:45:37 +0000",
       "minecraft:spider": "2025-05-20 02:45:30 +0000",
       "minecraft:creeper": "2025-06-06 03:43:44 +0000",
+      "minecraft:phantom": "2025-06-07 04:28:11 +0000",
       "minecraft:wither_skeleton": "2025-05-20 04:29:11 +0000",
       "minecraft:husk": "2025-05-20 02:18:06 +0000",
       "minecraft:shulker": "2025-06-07 03:20:10 +0000",
@@ -8729,6 +8730,12 @@
     },
     "done": true
   },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2025-06-07 04:28:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-06-07 03:35:02 +0000"
@@ -8819,6 +8826,12 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:28:11 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 03:35:02 +0000"
@@ -8834,6 +8847,12 @@
   "stellarity:cursed_tome/ancient_armor": {
     "criteria": {
       "requirement3": "2025-06-07 03:18:20 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:28:11 +0000"
     },
     "done": true
   },
@@ -8951,6 +8970,12 @@
     },
     "done": true
   },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-06-07 04:28:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-06-07 03:35:02 +0000"
@@ -9010,6 +9035,12 @@
       "requirement": "2025-06-07 03:18:20 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-07 04:28:11 +0000"
+    },
+    "done": false
   },
   "stellarity:recipes/glass_from_end_stone": {
     "criteria": {

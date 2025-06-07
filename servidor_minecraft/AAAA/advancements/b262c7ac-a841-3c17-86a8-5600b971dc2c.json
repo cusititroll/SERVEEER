@@ -1191,6 +1191,7 @@
       "minecraft:shulker": "2025-06-07 03:37:10 +0000",
       "minecraft:piglin": "2025-06-03 03:32:00 +0000",
       "minecraft:silverfish": "2025-06-03 02:30:16 +0000",
+      "minecraft:stray": "2025-06-07 04:39:34 +0000",
       "minecraft:endermite": "2025-06-07 03:25:13 +0000",
       "minecraft:zombie": "2025-05-26 03:00:58 +0000"
     },
@@ -8282,6 +8283,7 @@
   },
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
+      "blazing_dunes": "2025-06-07 04:46:49 +0000",
       "flesh_tundra": "2025-06-07 04:19:22 +0000",
       "frosted_hills": "2025-06-07 04:20:00 +0000",
       "sculk_growth": "2025-06-06 22:44:29 +0000",
@@ -8560,6 +8562,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-07 04:25:32 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/items/unlock_ancient_armor": {
     "criteria": {
       "requirement3": "2025-06-07 03:27:46 +0000"
@@ -8581,6 +8589,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2025-06-07 04:26:41 +0000"
     },
     "done": true
   },
@@ -8644,6 +8658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-06-07 04:26:52 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-06-07 04:10:21 +0000"
@@ -8698,6 +8718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/packed_ice_from_freezing": {
+    "criteria": {
+      "has_ice": "2025-06-07 04:39:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_table": {
     "criteria": {
       "has_planks": "2025-06-07 04:10:23 +0000"
@@ -8728,15 +8754,33 @@
     },
     "done": true
   },
+  "stellarity:aota/pandoras_barrel/place": {
+    "criteria": {
+      "requirement": "2025-06-07 04:25:08 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-06-07 04:10:21 +0000"
     },
     "done": true
   },
+  "stellarity:end_city/super_sonic": {
+    "criteria": {
+      "fly": "2025-06-07 04:40:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-07 04:25:32 +0000"
     },
     "done": true
   },
@@ -8818,6 +8862,12 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-06-07 03:37:24 +0000"
@@ -8857,6 +8907,12 @@
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:26:41 +0000"
     },
     "done": true
   },
@@ -8962,9 +9018,21 @@
     },
     "done": true
   },
+  "stellarity:recipes/gunpowder_from_popped_chorus_blasting": {
+    "criteria": {
+      "has_item": "2025-06-07 04:26:52 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/shulker_things": {
     "criteria": {
       "requirement": "2025-06-07 03:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-07 04:39:35 +0000"
     },
     "done": true
   },
@@ -9049,6 +9117,12 @@
   "valhelsia_furniture:recipes/decorations/red_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/ice_bricks": {
+    "criteria": {
+      "has_ice": "2025-06-07 04:39:35 +0000"
     },
     "done": true
   },
@@ -9145,6 +9219,12 @@
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-06-07 03:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-06-07 04:26:52 +0000"
     },
     "done": true
   },

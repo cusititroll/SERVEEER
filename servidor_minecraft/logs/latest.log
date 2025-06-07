@@ -1331,3 +1331,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 04:08:35.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> [name:"Muerte 22:49:01 06-06-2025", x:1286, y:197, z:-373, dim:minecraft:the_end]
 [07Jun2025 04:09:34.713] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [07Jun2025 04:22:18.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [Treasure Room]
+[07Jun2025 04:25:08.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Like a Box of Chocolates]
+[07Jun2025 04:25:32.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has reached the goal [Sky's the Limit]
+[07Jun2025 04:25:43.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[07Jun2025 04:25:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[07Jun2025 04:26:41.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has reached the goal [Worsening Nightmares]
+[07Jun2025 04:26:50.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.74.19.90:58481] logged in with entity id 76457 at (1711.5258520660705, 191.0, -1147.911070221606)
+[07Jun2025 04:26:50.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
+[07Jun2025 04:26:50.806] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
+[07Jun2025 04:26:57.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.40.0.99:48083] logged in with entity id 76464 at (-272.48247676682473, 112.0, -2200.227413695222)
+[07Jun2025 04:26:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[07Jun2025 04:26:57.958] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[07Jun2025 04:28:11.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has reached the goal [Worsening Nightmares]
+[07Jun2025 04:28:11.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Night Sky Stalkers]
+[07Jun2025 04:29:02.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [The End?]
+[07Jun2025 04:30:18.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has reached the goal [Remote Getaway]
+[07Jun2025 04:30:52.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> [x:1714, y:139, z:-1177, dim:minecraft:the_end]
+[07Jun2025 04:31:31.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5869ms or 117 ticks behind
+[07Jun2025 04:33:49.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [The City at the End of the Game]
+[07Jun2025 04:36:04.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1712, y=144, z=-1193} BlockPos{x=1712, y=142, z=-1193}
+[07Jun2025 04:36:04.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1712, y=144, z=-1193} BlockPos{x=1712, y=142, z=-1193}
+[07Jun2025 04:39:28.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has completed the challenge [Super Sonic]
+[07Jun2025 04:40:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Portable Storage]
+[07Jun2025 04:40:13.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has completed the challenge [Super Sonic]
+[07Jun2025 04:42:30.444] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xZ3r0kx with unique ID 2e0a9500-1464-49af-b6a8-435775dd4e94
+[07Jun2025 04:42:30.444] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1920 Y: 86 Z: -1566
+[07Jun2025 04:42:30.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was doomed to fall by Mimicube
+[07Jun2025 04:42:30.446] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1920, 86, -1567) minecraft:the_end
+[07Jun2025 04:42:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [This Block Moves!]
+[07Jun2025 04:47:59.815] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Jun2025 04:47:59.815] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Jun2025 04:48:55.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has reached the goal [Sky's the Limit]
+[07Jun2025 04:50:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has reached the goal [Who's The Thief Now]
+[07Jun2025 04:51:28.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Always Watching]
+[07Jun2025 04:52:02.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Ender Distancing]
+[07Jun2025 04:52:04.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Capsid-19]
+[07Jun2025 04:54:00.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has completed the challenge [Super Sonic]
+[07Jun2025 04:54:56.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [Postmortal]
+[07Jun2025 04:55:02.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 moved too quickly! 2.119483328927572,9.637040956750354,-2.736219508440172
+[07Jun2025 04:55:02.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP moved too quickly! 7.336733469563569,3.328841164222098,-6.098205357342977
+[07Jun2025 04:55:02.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4896ms or 97 ticks behind
+[07Jun2025 04:55:30.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Casti414> [name:"End Barco", x:1974, y:98, z:-1608, dim:minecraft:the_end]
+[07Jun2025 04:57:49.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP moved too quickly! 13.936573433707508,-1.309733804070646,-10.68072126874904
+[07Jun2025 05:01:09.134] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:village/villagers_jobless
+[07Jun2025 05:12:35.834] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3429, y=25, z=-5559} but found not block entity block Block{minecraft:air} at location
+[07Jun2025 05:12:35.834] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3429, y=25, z=-5559}
+[07Jun2025 05:13:50.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-236, y=119, z=-2186} BlockPos{x=-237, y=119, z=-2186}
+[07Jun2025 05:14:13.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Forever Stranded]
+[07Jun2025 05:14:18.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
