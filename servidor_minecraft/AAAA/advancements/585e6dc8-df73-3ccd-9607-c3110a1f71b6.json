@@ -12939,6 +12939,7 @@
   },
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
+      "blazing_dunes": "2025-06-07 03:58:33 +0000",
       "sculk_growth": "2025-06-06 23:03:13 +0000",
       "end_barrens": "2025-06-06 23:40:03 +0000"
     },
@@ -13109,6 +13110,12 @@
   "cfm:recipes/decorations/warped_coffee_table": {
     "criteria": {
       "has_planks": "2025-06-07 03:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-07 03:50:15 +0000"
     },
     "done": true
   },
@@ -13523,6 +13530,12 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 03:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-07 03:51:43 +0000"
     },
     "done": true
   },

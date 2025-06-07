@@ -1320,3 +1320,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 03:49:00.111] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1286, 196, -373) minecraft:the_end
 [07Jun2025 03:49:29.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [Sky's the Limit]
 [07Jun2025 03:50:15.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Local Brewery]
+[07Jun2025 03:58:16.855] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Jun2025 04:00:03.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Isaaac_173 moved too quickly! -1.9831611533986688,6.735464317011349,-7.388671358488921
+[07Jun2025 04:00:03.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7721ms or 154 ticks behind
+[07Jun2025 04:00:28.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was doomed to fall
+[07Jun2025 04:00:28.570] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1283, 181, -376) minecraft:the_end
+[07Jun2025 04:03:00.180] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[07Jun2025 04:03:54.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3129, y=64, z=-3005} BlockPos{x=-3129, y=62, z=-3005}
+[07Jun2025 04:03:55.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3129, y=64, z=-3005} BlockPos{x=-3129, y=62, z=-3005}
+[07Jun2025 04:08:35.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> [name:"Muerte 22:49:01 06-06-2025", x:1286, y:197, z:-373, dim:minecraft:the_end]
+[07Jun2025 04:09:34.713] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
