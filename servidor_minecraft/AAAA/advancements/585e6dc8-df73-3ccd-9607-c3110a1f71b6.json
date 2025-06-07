@@ -13617,15 +13617,15 @@
     },
     "done": false
   },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_warped_stool": {
+  "stellarity:end_city/super_sonic": {
     "criteria": {
-      "has_warped_slab": "2025-06-07 04:48:49 +0000"
+      "fly": "2025-06-07 04:39:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_mud": {
+  "valhelsia_furniture:recipes/decorations/green_upholstered_warped_stool": {
     "criteria": {
-      "has_mud": "2025-06-07 05:01:40 +0000"
+      "has_warped_slab": "2025-06-07 04:48:49 +0000"
     },
     "done": true
   },
@@ -13635,33 +13635,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/packed_ice_from_freezing": {
-    "criteria": {
-      "has_ice": "2025-06-07 04:50:05 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_warped_stool": {
     "criteria": {
       "has_warped_slab": "2025-06-07 04:48:49 +0000"
-    },
-    "done": true
-  },
-  "stellarity:end_city/super_sonic": {
-    "criteria": {
-      "fly": "2025-06-07 04:39:28 +0000"
-    },
-    "done": true
-  },
-  "stellarity:exploration/enter_end_village": {
-    "criteria": {
-      "find_a_town_in_a_complete_shithole": "2025-06-07 05:14:13 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:the_watcher": {
-    "criteria": {
-      "requirement": "2025-06-07 04:51:28 +0000"
     },
     "done": true
   },
@@ -13707,24 +13683,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-06-07 04:54:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-06-07 04:50:05 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/ice_bricks": {
-    "criteria": {
-      "has_ice": "2025-06-07 04:50:05 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/warped_stool": {
     "criteria": {
       "has_warped_slab": "2025-06-07 04:48:49 +0000"
@@ -13752,6 +13710,54 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_stool": {
     "criteria": {
       "has_warped_slab": "2025-06-07 04:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/packed_ice_from_freezing": {
+    "criteria": {
+      "has_ice": "2025-06-07 04:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-07 04:50:05 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/ice_bricks": {
+    "criteria": {
+      "has_ice": "2025-06-07 04:50:05 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:the_watcher": {
+    "criteria": {
+      "requirement": "2025-06-07 04:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-07 04:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-06-07 05:01:40 +0000"
+    },
+    "done": true
+  },
+  "stellarity:exploration/enter_end_village": {
+    "criteria": {
+      "find_a_town_in_a_complete_shithole": "2025-06-07 05:14:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-07 05:15:42 +0000"
     },
     "done": true
   },
