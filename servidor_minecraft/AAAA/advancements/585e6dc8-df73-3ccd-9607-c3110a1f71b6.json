@@ -2501,6 +2501,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_end": "2025-06-07 06:03:50 +0000",
       "in_pyramid_jungle": "2025-05-18 04:37:17 +0000"
     },
     "done": false
@@ -13762,77 +13763,197 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-06-07 05:50:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "has_smithing_trim_template": "2025-06-07 05:50:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "simplyswords:thunderbrand": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "requirement": "2025-06-07 05:53:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "repurposed_structures:ruined_portal_end": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "in_ruined_portal_end": "2025-06-07 05:54:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "has_purple_dye": "2025-06-07 06:05:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "has_purple_dye": "2025-06-07 06:05:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "valhelsia_furniture:recipes/decorations/purple_birch_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "has_purple_carpet": "2025-06-07 06:04:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "has_purple_dye": "2025-06-07 06:05:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "valhelsia_furniture:recipes/decorations/purple_oak_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "has_purple_carpet": "2025-06-07 06:04:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "valhelsia_furniture:recipes/decorations/purple_warped_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "has_purple_carpet": "2025-06-07 06:04:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "valhelsia_furniture:recipes/decorations/purple_crimson_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "has_purple_carpet": "2025-06-07 06:04:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "cfm:recipes/decorations/purple_picket_gate": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:26:21 +0000"
+      "has_concrete": "2025-06-07 06:04:28 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-07 06:05:16 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_cherry_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-06-07 06:04:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-07 06:04:45 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:longsword_plague": {
+    "criteria": {
+      "requirement": "2025-06-07 06:05:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_acacia_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-06-07 06:04:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/purple_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-06-07 06:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 06:05:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_dark_oak_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-06-07 06:04:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-07 06:04:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_purple_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:05:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-06-07 06:04:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-07 06:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 06:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 06:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 06:05:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_spruce_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-06-07 06:04:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_jungle_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-06-07 06:04:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_mangrove_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-06-07 06:04:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-06-07 06:04:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_purple_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-06-07 06:05:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

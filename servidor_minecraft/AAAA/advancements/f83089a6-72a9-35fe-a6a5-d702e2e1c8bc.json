@@ -5794,77 +5794,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "naturalist:recipes/naturalist/bug_net": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
+      "has_bamboo": "2025-06-07 05:53:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "valhelsia_structures:recipes/building_blocks/paper_wall": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
+      "has_bamboo": "2025-06-07 05:53:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
+      "has_bamboo": "2025-06-07 05:53:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
+      "has_bamboo": "2025-06-07 05:53:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
+      "has_bamboo": "2025-06-07 05:53:41 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:41:18 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
