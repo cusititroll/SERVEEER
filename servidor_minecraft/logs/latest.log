@@ -1313,3 +1313,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 03:37:10.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [This Block Moves!]
 [07Jun2025 03:38:15.903] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [07Jun2025 03:39:19.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [From The Shadows]
+[07Jun2025 03:46:58.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has reached the goal [Who's The Thief Now]
+[07Jun2025 03:49:00.106] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Isaaac_173 with unique ID 70093206-abbf-49ff-8782-e6edf53c5365
+[07Jun2025 03:49:00.107] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1287 Y: 195 Z: -372
+[07Jun2025 03:49:00.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Wither Skeleton
+[07Jun2025 03:49:00.111] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1286, 196, -373) minecraft:the_end
+[07Jun2025 03:49:29.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [Sky's the Limit]
+[07Jun2025 03:50:15.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Local Brewery]

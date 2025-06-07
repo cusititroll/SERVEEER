@@ -13148,6 +13148,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-07 03:49:29 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/items/unlock_ancient_armor": {
     "criteria": {
       "requirement3": "2025-06-07 03:18:44 +0000"
@@ -13232,6 +13238,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-07 03:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2025-06-07 03:28:46 +0000"
@@ -13274,6 +13286,12 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-06-07 03:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-06-07 03:28:46 +0000"
@@ -13301,6 +13319,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 03:27:37 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-06-07 03:48:34 +0000"
     },
     "done": true
   },

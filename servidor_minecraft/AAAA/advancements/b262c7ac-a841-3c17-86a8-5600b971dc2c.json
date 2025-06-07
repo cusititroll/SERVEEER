@@ -8449,6 +8449,12 @@
     },
     "done": true
   },
+  "stellarity:end_city/whos_the_thief_now": {
+    "criteria": {
+      "open_chest_1": "2025-06-07 03:46:58 +0000"
+    },
+    "done": true
+  },
   "stellarity:end_city/defeat_shulker": {
     "criteria": {
       "defeat_shulkers": "2025-06-07 03:37:10 +0000"
