@@ -1287,3 +1287,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 06:02:45.082] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
 [07Jun2025 06:05:12.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Maybe Don't Touch it]
 [07Jun2025 06:06:05.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Lightning Strikes Twice]
+[07Jun2025 06:09:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [You Need a Mint]
+[07Jun2025 06:11:38.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 lost connection: Disconnected
+[07Jun2025 06:11:38.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 left the game
+[07Jun2025 06:11:52.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:39149] logged in with entity id 10575 at (-960.3887664845878, 81.0, -740.3211354892792)
+[07Jun2025 06:11:52.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
+[07Jun2025 06:11:52.722] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
+[07Jun2025 06:12:58.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isaaac_173[/127.121.81.23:38213] logged in with entity id 11280 at (-264.01290160274874, 129.875, -2260.992441816765)
+[07Jun2025 06:12:58.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 joined the game
+[07Jun2025 06:12:58.840] [Server thread/INFO] [Jade/]: Syncing config to Isaaac_173 (5a9f8102-961e-3d36-ba9a-c7074b3f629e)

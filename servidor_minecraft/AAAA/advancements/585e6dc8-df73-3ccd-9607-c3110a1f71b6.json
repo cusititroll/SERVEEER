@@ -1587,6 +1587,7 @@
       "beetroot": "2025-05-18 04:12:20 +0000",
       "golden_carrot": "2025-05-20 04:33:42 +0000",
       "cooked_rabbit": "2025-05-18 05:10:12 +0000",
+      "enchanted_golden_apple": "2025-06-07 06:13:35 +0000",
       "mushroom_stew": "2025-05-18 04:18:04 +0000",
       "cooked_salmon": "2025-05-19 23:05:02 +0000"
     },
@@ -13817,6 +13818,12 @@
     },
     "done": true
   },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2025-06-07 06:06:05 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_warped_table": {
     "criteria": {
       "has_purple_carpet": "2025-06-07 06:04:46 +0000"
@@ -13892,6 +13899,12 @@
   "cfm:recipes/decorations/dye_purple_picket_gate": {
     "criteria": {
       "has_dye": "2025-06-07 06:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-07 06:09:02 +0000"
     },
     "done": true
   },
