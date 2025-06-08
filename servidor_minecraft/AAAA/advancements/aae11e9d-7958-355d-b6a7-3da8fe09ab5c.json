@@ -10602,5 +10602,17 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_sapling": "2025-06-08 05:43:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2025-06-08 05:46:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
