@@ -1278,3 +1278,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 20:17:06.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
 [08Jun2025 20:17:06.293] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
 [08Jun2025 20:17:08.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[08Jun2025 20:29:29.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Colorful Arsenal]
+[08Jun2025 20:33:06.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Snailed It]

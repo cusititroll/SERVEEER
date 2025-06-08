@@ -10614,5 +10614,71 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_orange_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-06-08 20:28:53 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/jeb_": {
+    "criteria": {
+      "craft2": "2025-06-08 20:29:29 +0000"
+    },
+    "done": false
+  },
+  "stellarity:end_city/colorful_arsenal": {
+    "criteria": {
+      "color_shulker_box": "2025-06-08 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 20:28:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_orange_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-06-08 20:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-06-08 20:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 20:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2025-06-08 20:28:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/orange_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-06-08 20:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 20:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-06-08 20:28:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
