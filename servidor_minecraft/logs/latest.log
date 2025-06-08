@@ -1289,3 +1289,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 20:50:47.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Set own game mode to Creative Mode]
 [08Jun2025 20:52:58.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Gave 10000000 experience points to Casti414]
 [08Jun2025 20:55:08.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Sculk Engineer]
+[08Jun2025 20:59:08.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Set own game mode to Survival Mode]
+[08Jun2025 21:00:55.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Gave 500 [Block of Emerald] to Casti414]
+[08Jun2025 21:03:32.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jun2025 21:03:32.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: diop Casti414<--[HERE]
+[08Jun2025 21:03:49.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Casti414 no longer a server operator
+[08Jun2025 21:16:41.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Casti414 a server operator
+[08Jun2025 21:17:15.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Gave 500 [Gunpowder] to Casti414]
+[08Jun2025 21:17:35.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Gave 500 [Sugar Cane] to Casti414]
+[08Jun2025 21:17:42.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Casti414 no longer a server operator
