@@ -1320,3 +1320,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 22:33:57.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-308, y=123, z=-2218} BlockPos{x=-306, y=122, z=-2218}
 [08Jun2025 22:33:58.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-308, y=123, z=-2221} BlockPos{x=-308, y=122, z=-2217}
 [08Jun2025 22:33:58.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-308, y=123, z=-2221} BlockPos{x=-308, y=122, z=-2217}
+[08Jun2025 23:46:05.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=122, z=-2172} BlockPos{x=-210, y=120, z=-2172}
+[08Jun2025 23:46:05.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-210, y=122, z=-2173} BlockPos{x=-210, y=120, z=-2172}
+[08Jun2025 23:46:10.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-207, y=122, z=-2173} BlockPos{x=-207, y=123, z=-2173}
+[08Jun2025 23:46:10.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-207, y=122, z=-2173} BlockPos{x=-207, y=123, z=-2173}
+[08Jun2025 23:46:10.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=122, z=-2174} BlockPos{x=-207, y=123, z=-2173}
+[08Jun2025 23:46:21.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=119, z=-2165} BlockPos{x=-209, y=120, z=-2165}
+[08Jun2025 23:46:22.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-215, y=119, z=-2166} BlockPos{x=-213, y=118, z=-2164}
+[08Jun2025 23:46:23.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=117, z=-2165} BlockPos{x=-217, y=117, z=-2165}
+[08Jun2025 23:46:25.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-217, y=119, z=-2163} BlockPos{x=-215, y=116, z=-2165}
