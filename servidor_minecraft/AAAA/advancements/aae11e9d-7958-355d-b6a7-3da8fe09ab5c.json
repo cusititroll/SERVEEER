@@ -10620,18 +10620,6 @@
     },
     "done": true
   },
-  "stellarity:end_city/jeb_": {
-    "criteria": {
-      "craft2": "2025-06-08 20:29:29 +0000"
-    },
-    "done": false
-  },
-  "stellarity:end_city/colorful_arsenal": {
-    "criteria": {
-      "color_shulker_box": "2025-06-08 20:29:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_orange_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-08 20:28:53 +0000"
@@ -10677,6 +10665,42 @@
   "minecraft:recipes/building_blocks/dye_orange_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-06-08 20:28:53 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/jeb_": {
+    "criteria": {
+      "craft2": "2025-06-08 20:29:29 +0000"
+    },
+    "done": false
+  },
+  "stellarity:end_city/colorful_arsenal": {
+    "criteria": {
+      "color_shulker_box": "2025-06-08 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/snail/slime_ball_from_smelting_mucus": {
+    "criteria": {
+      "has_raw_item": "2025-06-08 20:33:06 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/snail/escargot_from_mucus": {
+    "criteria": {
+      "has_raw_item": "2025-06-08 20:33:06 +0000"
+    },
+    "done": true
+  },
+  "spawn:husbandry/obtain_mucus": {
+    "criteria": {
+      "obtain_mucus": "2025-06-08 20:33:06 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/snail/mucus_block": {
+    "criteria": {
+      "has_raw_item": "2025-06-08 20:33:06 +0000"
     },
     "done": true
   },

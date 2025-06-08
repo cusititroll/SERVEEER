@@ -1280,3 +1280,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 20:17:08.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
 [08Jun2025 20:29:29.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Colorful Arsenal]
 [08Jun2025 20:33:06.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Snailed It]
+[08Jun2025 20:40:04.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[08Jun2025 20:40:04.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[08Jun2025 20:40:18.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.40.0.99:37699] logged in with entity id 12883 at (255.2405744694258, 114.0, -492.44385553917857)
+[08Jun2025 20:40:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[08Jun2025 20:40:18.929] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
