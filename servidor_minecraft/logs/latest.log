@@ -1319,3 +1319,119 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 05:57:55.053] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
 [08Jun2025 05:59:11.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP moved wrongly!
 [08Jun2025 06:01:01.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3211ms or 64 ticks behind
+[08Jun2025 06:05:40.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has reached the goal [Pocket Edition Alpha]
+[08Jun2025 06:06:54.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[08Jun2025 06:06:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[08Jun2025 06:07:04.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.74.19.90:54731] logged in with entity id 36698 at (-441.6013824545254, 32.0, 1619.699999988079)
+[08Jun2025 06:07:04.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
+[08Jun2025 06:07:04.800] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
+[08Jun2025 06:08:17.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-956, y=77, z=-702} BlockPos{x=-958, y=75, z=-702}
+[08Jun2025 06:08:22.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/35248, l='ServerLevel[AAAA]', x=-447.97, y=62.91, z=1621.65] died: Ghast Sentry was shot by PandagamerP
+[08Jun2025 06:11:35.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/40451, l='ServerLevel[AAAA]', x=-350.00, y=33.56, z=1985.53] died, message: 'Cartographer suffocated in a wall'
+[08Jun2025 06:11:55.280] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/40486, l='ServerLevel[AAAA]', x=-405.00, y=47.00, z=2012.41] died: Ghast Sentry was shot by PandagamerP
+[08Jun2025 06:15:27.199] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID 3bb0768e-c71a-4ae1-a18e-a8b6b63ed46a
+[08Jun2025 06:15:27.200] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -226 Y: 59 Z: 2391
+[08Jun2025 06:15:27.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Piglin Brute
+[08Jun2025 06:15:27.231] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-227, 58, 2390) minecraft:the_nether
+[08Jun2025 06:16:24.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has completed the challenge [Super Sonic]
+[08Jun2025 06:16:34.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/48799, l='ServerLevel[AAAA]', x=141.35, y=-20.00, z=-529.48] died: Toxic Slime was killed
+[08Jun2025 06:16:37.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49651, l='ServerLevel[AAAA]', x=163.37, y=60.00, z=-473.52] died: Toxic Slime fell from a high place
+[08Jun2025 06:16:37.906] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49795, l='ServerLevel[AAAA]', x=82.26, y=58.00, z=-549.40] died: Toxic Slime fell from a high place
+[08Jun2025 06:16:39.888] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49635, l='ServerLevel[AAAA]', x=163.62, y=61.00, z=-502.89] died: Toxic Slime fell from a high place
+[08Jun2025 06:16:40.350] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49681, l='ServerLevel[AAAA]', x=126.74, y=58.00, z=-514.09] died: Toxic Slime fell from a high place
+[08Jun2025 06:16:41.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50041, l='ServerLevel[AAAA]', x=148.41, y=63.00, z=-445.19] died: Toxic Slime fell from a high place
+[08Jun2025 06:16:43.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49860, l='ServerLevel[AAAA]', x=104.84, y=29.00, z=-537.11] died: Toxic Slime fell from a high place
+[08Jun2025 06:16:58.486] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49680, l='ServerLevel[AAAA]', x=100.70, y=57.00, z=-526.59] died: Toxic Slime fell from a high place
+[08Jun2025 06:17:03.707] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50868, l='ServerLevel[AAAA]', x=165.53, y=66.00, z=-406.66] died: Toxic Slime fell from a high place
+[08Jun2025 06:18:21.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Darude - Firestorm]
+[08Jun2025 06:18:52.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/57208, l='ServerLevel[AAAA]', x=-308.61, y=34.00, z=1653.63] died, message: 'Cartographer burned to death'
+[08Jun2025 06:19:31.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[08Jun2025 06:19:36.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[08Jun2025 06:19:57.179] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/62270, l='ServerLevel[AAAA]', x=-162.60, y=28.00, z=2028.45] died: Toxic Slime fell from a high place
+[08Jun2025 06:20:04.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[08Jun2025 06:20:04.574] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/62132, l='ServerLevel[AAAA]', x=-153.98, y=38.00, z=1984.63] died: Toxic Slime fell from a high place
+[08Jun2025 06:20:07.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/62328, l='ServerLevel[AAAA]', x=-152.12, y=98.00, z=2018.93] died: Toxic Slime fell from a high place
+[08Jun2025 06:20:29.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=118, z=-2201} BlockPos{x=-260, y=120, z=-2203}
+[08Jun2025 06:20:46.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[08Jun2025 06:20:50.342] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/64362, l='ServerLevel[AAAA]', x=-147.45, y=49.00, z=2031.49] died: Toxic Slime fell from a high place
+[08Jun2025 06:20:55.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/64521, l='ServerLevel[AAAA]', x=-78.07, y=90.00, z=2088.86] died: Toxic Slime fell from a high place
+[08Jun2025 06:21:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Piglin Brute
+[08Jun2025 06:21:21.377] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-224, 58, 2397) minecraft:the_nether
+[08Jun2025 06:21:39.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66558, l='ServerLevel[AAAA]', x=147.95, y=29.00, z=-544.95] died: Toxic Slime fell from a high place
+[08Jun2025 06:21:39.907] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66444, l='ServerLevel[AAAA]', x=165.03, y=40.00, z=-415.24] died: Toxic Slime fell from a high place
+[08Jun2025 06:21:41.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/65942, l='ServerLevel[AAAA]', x=89.78, y=57.00, z=-550.43] died: Toxic Slime fell from a high place
+[08Jun2025 06:21:42.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/65943, l='ServerLevel[AAAA]', x=84.42, y=29.00, z=-485.02] died: Toxic Slime fell from a high place
+[08Jun2025 06:21:43.455] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MICHE019 with unique ID f9d56159-94ef-4650-9391-df1eb9b8afd0
+[08Jun2025 06:21:43.455] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -262 Y: 112 Z: -2230
+[08Jun2025 06:21:43.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 was burnt to a crisp whilst fighting Casti414
+[08Jun2025 06:21:43.457] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-263, 112, -2231) minecraft:overworld
+[08Jun2025 06:21:43.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66703, l='ServerLevel[AAAA]', x=125.77, y=59.00, z=-498.91] died: Toxic Slime fell from a high place
+[08Jun2025 06:21:44.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66554, l='ServerLevel[AAAA]', x=57.90, y=29.00, z=-479.92] died: Toxic Slime fell from a high place
+[08Jun2025 06:21:47.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66330, l='ServerLevel[AAAA]', x=253.11, y=82.00, z=-470.47] died: Toxic Slime fell from a high place
+[08Jun2025 06:21:51.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Piglin Brute
+[08Jun2025 06:21:51.366] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-225, 58, 2397) minecraft:the_nether
+[08Jun2025 06:22:02.504] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/68297, l='ServerLevel[AAAA]', x=56.91, y=43.00, z=-518.97] died: Toxic Slime fell from a high place
+[08Jun2025 06:22:05.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Piglin Brute
+[08Jun2025 06:22:05.464] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-224, 58, 2396) minecraft:the_nether
+[08Jun2025 06:22:14.476] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69540, l='ServerLevel[AAAA]', x=120.97, y=57.00, z=-561.07] died: Toxic Slime fell from a high place
+[08Jun2025 06:22:14.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69591, l='ServerLevel[AAAA]', x=161.31, y=59.00, z=-488.41] died: Toxic Slime fell from a high place
+[08Jun2025 06:22:15.553] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69686, l='ServerLevel[AAAA]', x=101.06, y=58.00, z=-533.05] died: Toxic Slime fell from a high place
+[08Jun2025 06:22:18.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Piglin Brute
+[08Jun2025 06:22:27.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71336, l='ServerLevel[AAAA]', x=120.74, y=60.00, z=-505.93] died: Toxic Slime fell from a high place
+[08Jun2025 06:22:28.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71335, l='ServerLevel[AAAA]', x=104.03, y=30.00, z=-522.14] died: Toxic Slime fell from a high place
+[08Jun2025 06:22:28.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71337, l='ServerLevel[AAAA]', x=110.15, y=29.00, z=-542.33] died: Toxic Slime fell from a high place
+[08Jun2025 06:22:29.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71412, l='ServerLevel[AAAA]', x=148.58, y=29.00, z=-547.00] died: Toxic Slime fell from a high place
+[08Jun2025 06:22:32.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Piglin Brute
+[08Jun2025 06:22:32.584] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-225, 58, 2396) minecraft:the_nether
+[08Jun2025 06:22:42.475] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/73148, l='ServerLevel[AAAA]', x=59.58, y=41.00, z=-523.07] died: Toxic Slime fell from a high place
+[08Jun2025 06:22:45.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/73664, l='ServerLevel[AAAA]', x=159.80, y=68.00, z=-400.14] died: Toxic Slime fell from a high place
+[08Jun2025 06:23:02.486] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[08Jun2025 06:23:02.487] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[08Jun2025 06:24:07.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [Voluntary Exile]
+[08Jun2025 06:24:11.772] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MICHE019 with unique ID 322520c1-d60b-4bc7-9a6f-6b209aa0ff02
+[08Jun2025 06:24:11.773] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -246 Y: 125 Z: -2256
+[08Jun2025 06:24:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 was slain by Vindicator
+[08Jun2025 06:24:11.776] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-245, 124, -2257) minecraft:overworld
+[08Jun2025 06:28:36.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=17, z=2858} BlockPos{x=1, y=17, z=2853}
+[08Jun2025 06:28:36.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=16, z=2858} BlockPos{x=1, y=17, z=2853}
+[08Jun2025 06:28:36.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=17, z=2858} BlockPos{x=1, y=17, z=2853}
+[08Jun2025 06:28:36.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=17, z=2858} BlockPos{x=1, y=17, z=2853}
+[08Jun2025 06:30:14.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=19, z=2998} BlockPos{x=47, y=19, z=2998}
+[08Jun2025 06:30:45.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=15, z=3073} BlockPos{x=46, y=16, z=3075}
+[08Jun2025 06:30:45.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=15, z=3073} BlockPos{x=46, y=16, z=3075}
+[08Jun2025 06:30:45.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=15, z=3073} BlockPos{x=46, y=16, z=3075}
+[08Jun2025 06:30:45.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=15, z=3073} BlockPos{x=46, y=16, z=3075}
+[08Jun2025 06:30:47.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=17, z=3077} BlockPos{x=47, y=16, z=3076}
+[08Jun2025 06:32:54.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=15, z=3305} BlockPos{x=47, y=17, z=3311}
+[08Jun2025 06:33:10.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=43, y=17, z=3332} BlockPos{x=45, y=17, z=3330}
+[08Jun2025 06:34:01.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=18, z=3439} BlockPos{x=47, y=18, z=3439}
+[08Jun2025 06:34:01.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=17, z=3439} BlockPos{x=47, y=18, z=3439}
+[08Jun2025 06:34:01.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=17, z=3439} BlockPos{x=47, y=18, z=3439}
+[08Jun2025 06:34:10.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=17, z=3449} BlockPos{x=47, y=17, z=3450}
+[08Jun2025 06:34:10.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=17, z=3449} BlockPos{x=47, y=17, z=3450}
+[08Jun2025 06:34:12.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=17, z=3451} BlockPos{x=50, y=17, z=3451}
+[08Jun2025 06:34:12.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=17, z=3451} BlockPos{x=50, y=17, z=3451}
+[08Jun2025 06:34:12.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=17, z=3451} BlockPos{x=50, y=17, z=3451}
+[08Jun2025 06:34:12.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=17, z=3451} BlockPos{x=50, y=17, z=3451}
+[08Jun2025 06:34:13.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=17, z=3449} BlockPos{x=50, y=17, z=3451}
+[08Jun2025 06:34:42.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=18, z=3518} BlockPos{x=62, y=17, z=3518}
+[08Jun2025 06:34:42.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=18, z=3518} BlockPos{x=62, y=17, z=3518}
+[08Jun2025 06:34:48.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=71, y=17, z=3523} BlockPos{x=69, y=17, z=3522}
+[08Jun2025 06:34:48.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=71, y=17, z=3523} BlockPos{x=69, y=17, z=3522}
+[08Jun2025 06:34:48.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=72, y=17, z=3524} BlockPos{x=69, y=17, z=3522}
+[08Jun2025 06:34:48.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=70, y=17, z=3523} BlockPos{x=71, y=17, z=3524}
+[08Jun2025 06:34:48.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=70, y=17, z=3523} BlockPos{x=71, y=17, z=3524}
+[08Jun2025 06:35:20.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=18, z=3610} BlockPos{x=63, y=17, z=3611}
+[08Jun2025 06:35:20.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=18, z=3610} BlockPos{x=63, y=17, z=3611}
+[08Jun2025 06:35:20.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=18, z=3610} BlockPos{x=63, y=17, z=3611}
+[08Jun2025 06:35:21.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=18, z=3610} BlockPos{x=63, y=17, z=3611}
+[08Jun2025 06:35:21.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=18, z=3610} BlockPos{x=63, y=17, z=3611}
+[08Jun2025 06:35:21.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=18, z=3610} BlockPos{x=63, y=17, z=3611}
+[08Jun2025 06:35:21.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=17, z=3607} BlockPos{x=63, y=17, z=3611}
+[08Jun2025 06:35:21.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=17, z=3607} BlockPos{x=63, y=17, z=3611}
+[08Jun2025 06:35:21.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=17, z=3607} BlockPos{x=63, y=17, z=3611}
+[08Jun2025 06:35:21.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=61, y=18, z=3608} BlockPos{x=63, y=17, z=3611}
+[08Jun2025 06:35:21.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=17, z=3608} BlockPos{x=64, y=19, z=3611}
+[08Jun2025 06:35:21.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=18, z=3608} BlockPos{x=64, y=19, z=3611}
+[08Jun2025 06:35:21.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=18, z=3609} BlockPos{x=64, y=19, z=3611}
+[08Jun2025 06:35:38.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=59, y=15, z=3641} BlockPos{x=60, y=15, z=3642}

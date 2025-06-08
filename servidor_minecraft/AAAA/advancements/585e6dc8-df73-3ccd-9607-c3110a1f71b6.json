@@ -1371,6 +1371,7 @@
       "minecraft:blaze": "2025-05-26 02:02:40 +0000",
       "minecraft:skeleton": "2025-05-18 04:24:28 +0000",
       "minecraft:ravager": "2025-06-01 23:48:15 +0000",
+      "minecraft:ghast": "2025-06-08 06:08:22 +0000",
       "minecraft:hoglin": "2025-05-26 01:52:24 +0000",
       "minecraft:vindicator": "2025-05-20 03:27:44 +0000",
       "minecraft:magma_cube": "2025-05-26 02:18:31 +0000",
@@ -8638,6 +8639,7 @@
     "criteria": {
       "incendium:ash_barrens": "2025-05-26 02:14:43 +0000",
       "incendium:weeping_valley": "2025-05-31 04:19:53 +0000",
+      "incendium:infernal_dunes": "2025-06-08 06:18:21 +0000",
       "incendium:inverted_forest": "2025-06-08 05:56:21 +0000",
       "incendium:volcanic_deltas": "2025-06-08 05:57:08 +0000",
       "incendium:toxic_heap": "2025-05-26 02:17:07 +0000"
@@ -14085,6 +14087,26 @@
   "incendium:volcanic_deltas/root": {
     "criteria": {
       "incendium:volcanic_deltas": "2025-06-08 05:57:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-06-08 06:06:44 +0000",
+      "junk": "2025-06-08 06:09:01 +0000",
+      "treasure": "2025-06-08 06:05:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2025-06-08 06:05:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-06-08 06:18:21 +0000"
     },
     "done": true
   },
