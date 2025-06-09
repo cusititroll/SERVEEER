@@ -8838,6 +8838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-06-09 04:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-06-09 02:31:43 +0000"
@@ -8859,6 +8865,18 @@
   "stellarity:cursed_tome/spirit_dagger": {
     "criteria": {
       "requirement": "2025-06-09 01:15:43 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/gunpowder_from_popped_chorus_blasting": {
+    "criteria": {
+      "has_item": "2025-06-09 04:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-06-09 04:06:51 +0000"
     },
     "done": true
   },

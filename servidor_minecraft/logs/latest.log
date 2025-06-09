@@ -1329,3 +1329,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 04:01:22.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=127, z=-2237} BlockPos{x=-178, y=126, z=-2236}
 [09Jun2025 04:01:23.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=127, z=-2236} BlockPos{x=-178, y=126, z=-2236}
 [09Jun2025 04:02:05.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 moved too quickly! 13.340412551653799,-10.042200348998477,8.321227843040106
+[09Jun2025 04:07:05.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=119, z=-2247} BlockPos{x=-181, y=119, z=-2245}
+[09Jun2025 04:08:56.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=125, z=-2255} BlockPos{x=-182, y=126, z=-2252}
+[09Jun2025 04:08:56.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=125, z=-2255} BlockPos{x=-182, y=126, z=-2252}
