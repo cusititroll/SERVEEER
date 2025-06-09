@@ -10705,87 +10705,51 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
+      "has_log": "2025-06-08 20:51:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "mcwwindows:recipes/spruce": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
+      "has_wood": "2025-06-08 20:51:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
+      "has_log": "2025-06-08 20:51:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "cfm:recipes/decorations/spruce_blinds": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
+      "has_log": "2025-06-08 20:51:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
+      "has_log": "2025-06-08 20:51:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "valhelsia_structures:recipes/building_blocks/spruce_post": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
+      "has_item": "2025-06-08 20:51:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
+      "has_warden_carapace": "2025-06-08 20:54:30 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 00:06:40 +0000"
-    },
-    "done": false
+    "done": true
   },
   "deeperdarker:recipes/combat/warden_leggings_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-08 20:55:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-06-08 21:13:59 +0000"
     },
     "done": true
   },
@@ -10807,27 +10771,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2025-06-08 20:51:46 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-08 20:55:08 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-06-08 20:51:46 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-06-08 20:51:46 +0000"
     },
     "done": true
   },
@@ -10837,39 +10783,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_blinds": {
-    "criteria": {
-      "has_log": "2025-06-08 20:51:46 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:main/obtain_reinforce_echo_shard": {
     "criteria": {
       "reinforce_echo_shard": "2025-06-08 20:55:08 +0000"
     },
     "done": true
   },
-  "deeperdarker:recipes/misc/reinforced_echo_shard": {
-    "criteria": {
-      "has_warden_carapace": "2025-06-08 20:54:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-06-08 20:51:46 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/tools/warden_shovel_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-06-08 20:55:08 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/spruce_post": {
-    "criteria": {
-      "has_item": "2025-06-08 20:51:46 +0000"
     },
     "done": true
   },
@@ -10888,6 +10810,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-06-08 21:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-08 21:13:59 +0000"
     },
     "done": true
   },
