@@ -16082,3 +16082,232 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 02:02:05.157] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-903.69, y=91.56, z=-554.21], dimensionLocationPath overworld
 [09Jun2025 02:02:05.157] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-903.69, y=91.56, z=-554.21] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1587]
 [09Jun2025 02:02:38.419] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[09Jun2025 02:03:01.857] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-907.27, y=90.05, z=-554.88]
+[09Jun2025 02:03:02.710] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-906.50, y=91.65, z=-554.20], dimensionLocationPath overworld
+[09Jun2025 02:03:02.710] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-906.50, y=91.65, z=-554.20] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:03:03.163] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-896.73, y=90.00, z=-567.74]
+[09Jun2025 02:03:03.511] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-896.72, y=90.00, z=-568.07], dimensionLocationPath overworld
+[09Jun2025 02:03:03.511] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-896.72, y=90.00, z=-568.07] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1587]
+[09Jun2025 02:03:07.841] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/28753, l='ServerLevel[AAAA]', x=-905.28, y=93.33, z=-546.55], dimensionLocationPath overworld
+[09Jun2025 02:03:07.841] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/28753, l='ServerLevel[AAAA]', x=-905.28, y=93.33, z=-546.55] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1587, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:03:08.341] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/28753, l='ServerLevel[AAAA]', x=-904.44, y=93.08, z=-546.68, removed=DISCARDED]
+[09Jun2025 02:03:12.569] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[09Jun2025 02:03:20.861] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-896.33, y=90.00, z=-571.41]
+[09Jun2025 02:03:21.109] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-896.30, y=90.64, z=-571.43], dimensionLocationPath overworld
+[09Jun2025 02:03:21.109] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-896.30, y=90.64, z=-571.43] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1587]
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: aether:moa_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[09Jun2025 02:03:28.217] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[09Jun2025 02:03:28.218] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[09Jun2025 02:03:28.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save AAAA
+[09Jun2025 02:03:28.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete AAAA
+[09Jun2025 02:03:33.061] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-897.92, y=90.00, z=-572.51]
+[09Jun2025 02:03:33.409] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-898.03, y=90.00, z=-572.40], dimensionLocationPath overworld
+[09Jun2025 02:03:33.410] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-898.03, y=90.00, z=-572.40] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1587]
+[09Jun2025 02:04:45.066] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-910.40, y=91.00, z=-573.36]
+[09Jun2025 02:04:45.614] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-910.40, y=91.00, z=-573.36], dimensionLocationPath overworld
+[09Jun2025 02:04:45.614] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-910.40, y=91.00, z=-573.36] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:04:53.512] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-907.97, y=90.16, z=-570.41]
+[09Jun2025 02:04:53.764] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-908.42, y=90.22, z=-570.43], dimensionLocationPath overworld
+[09Jun2025 02:04:53.764] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-908.42, y=90.22, z=-570.43] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:05:36.905] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-916.27, y=92.09, z=-553.17]
+[09Jun2025 02:05:37.259] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-916.55, y=92.07, z=-554.15], dimensionLocationPath overworld
+[09Jun2025 02:05:37.259] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-916.55, y=92.07, z=-554.15] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:06:33.159] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-904.85, y=90.04, z=-554.86]
+[09Jun2025 02:06:33.810] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-904.87, y=91.59, z=-554.22], dimensionLocationPath overworld
+[09Jun2025 02:06:33.810] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-904.87, y=91.59, z=-554.22] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:06:43.703] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[09Jun2025 02:08:14.055] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.34, y=90.24, z=-554.90]
+[09Jun2025 02:08:14.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.31, y=90.33, z=-554.85], dimensionLocationPath overworld
+[09Jun2025 02:08:14.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.31, y=90.33, z=-554.85] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:08:16.755] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.71, y=90.10, z=-554.71]
+[09Jun2025 02:08:17.155] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.74, y=90.00, z=-555.06], dimensionLocationPath overworld
+[09Jun2025 02:08:17.155] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.74, y=90.00, z=-555.06] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:08:18.055] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.74, y=90.00, z=-556.13]
+[09Jun2025 02:08:19.004] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-906.07, y=90.00, z=-557.08], dimensionLocationPath overworld
+[09Jun2025 02:08:19.004] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-906.07, y=90.00, z=-557.08] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:08:21.208] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-906.83, y=90.11, z=-556.82]
+[09Jun2025 02:08:21.459] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-907.25, y=90.93, z=-556.31], dimensionLocationPath overworld
+[09Jun2025 02:08:21.459] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-907.25, y=90.93, z=-556.31] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:08:23.806] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.96, y=90.53, z=-555.21]
+[09Jun2025 02:08:24.961] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-906.61, y=90.64, z=-555.15], dimensionLocationPath overworld
+[09Jun2025 02:08:24.961] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-906.61, y=90.64, z=-555.15] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:08:25.659] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-906.39, y=91.27, z=-554.93]
+[09Jun2025 02:08:25.905] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-906.34, y=90.99, z=-555.07], dimensionLocationPath overworld
+[09Jun2025 02:08:25.905] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-906.34, y=90.99, z=-555.07] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:08:26.769] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-906.34, y=90.46, z=-555.45]
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: aether:moa_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[09Jun2025 02:08:28.215] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[09Jun2025 02:08:28.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save AAAA
+[09Jun2025 02:08:28.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete AAAA
+[09Jun2025 02:08:28.559] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[09Jun2025 02:08:28.560] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[09Jun2025 02:08:28.566] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.34, y=94.72, z=-555.02], dimensionLocationPath overworld
+[09Jun2025 02:08:28.566] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.34, y=94.72, z=-555.02] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:10:17.940] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/32258, l='ServerLevel[AAAA]', x=-907.55, y=96.32, z=-565.30], dimensionLocationPath overworld
+[09Jun2025 02:10:17.941] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/32258, l='ServerLevel[AAAA]', x=-907.55, y=96.32, z=-565.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1587]
+[09Jun2025 02:10:18.241] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/32259, l='ServerLevel[AAAA]', x=-907.55, y=96.32, z=-565.30], dimensionLocationPath overworld
+[09Jun2025 02:10:18.241] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/32259, l='ServerLevel[AAAA]', x=-907.55, y=96.32, z=-565.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1587, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@7e02]
+[09Jun2025 02:10:18.390] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/32260, l='ServerLevel[AAAA]', x=-907.55, y=96.32, z=-565.30], dimensionLocationPath overworld
+[09Jun2025 02:10:18.390] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/32260, l='ServerLevel[AAAA]', x=-907.55, y=96.32, z=-565.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1587, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@7e02, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@7e03]
+[09Jun2025 02:10:18.455] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Air'/32260, l='ServerLevel[AAAA]', x=-907.18, y=96.39, z=-564.85, removed=DISCARDED]
+[09Jun2025 02:10:18.541] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/32261, l='ServerLevel[AAAA]', x=-907.55, y=96.32, z=-565.30], dimensionLocationPath overworld
+[09Jun2025 02:10:18.541] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/32261, l='ServerLevel[AAAA]', x=-907.55, y=96.32, z=-565.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1587, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@7e02, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@7e03]
+[09Jun2025 02:10:19.911] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Air'/32258, l='ServerLevel[AAAA]', x=-905.55, y=95.00, z=-562.85, removed=DISCARDED]
+[09Jun2025 02:10:20.208] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Air'/32261, l='ServerLevel[AAAA]', x=-905.07, y=95.00, z=-562.22, removed=DISCARDED]
+[09Jun2025 02:10:20.592] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/32259, l='ServerLevel[AAAA]', x=-905.32, y=95.00, z=-562.66, removed=DISCARDED]
+[09Jun2025 02:10:27.741] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/32302, l='ServerLevel[AAAA]', x=-907.41, y=96.32, z=-565.14], dimensionLocationPath overworld
+[09Jun2025 02:10:27.741] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/32302, l='ServerLevel[AAAA]', x=-907.41, y=96.32, z=-565.14] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1587]
+[09Jun2025 02:10:29.740] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/32302, l='ServerLevel[AAAA]', x=-904.68, y=95.00, z=-562.98, removed=DISCARDED]
+[09Jun2025 02:10:59.613] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[09Jun2025 02:11:04.755] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.97, y=95.12, z=-562.14]
+[09Jun2025 02:11:05.357] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.90, y=96.59, z=-562.31], dimensionLocationPath overworld
+[09Jun2025 02:11:05.357] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.90, y=96.59, z=-562.31] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:12:34.508] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.13, y=98.00, z=-562.14]
+[09Jun2025 02:12:35.261] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.19, y=99.59, z=-562.56], dimensionLocationPath overworld
+[09Jun2025 02:12:35.261] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['MICHE019'/5511, l='ServerLevel[AAAA]', x=-905.19, y=99.59, z=-562.56] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@682]
+[09Jun2025 02:13:03.058] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-905.52, y=98.87, z=-562.24]
+[09Jun2025 02:13:03.163] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-905.59, y=99.77, z=-562.50], dimensionLocationPath overworld
+[09Jun2025 02:13:03.163] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BgodYT'/1666, l='ServerLevel[AAAA]', x=-905.59, y=99.77, z=-562.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4d, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1587]
