@@ -1332,3 +1332,84 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 04:07:05.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=119, z=-2247} BlockPos{x=-181, y=119, z=-2245}
 [09Jun2025 04:08:56.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=125, z=-2255} BlockPos{x=-182, y=126, z=-2252}
 [09Jun2025 04:08:56.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=125, z=-2255} BlockPos{x=-182, y=126, z=-2252}
+[09Jun2025 04:15:58.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[09Jun2025 04:16:17.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3717ms or 74 ticks behind
+[09Jun2025 04:16:25.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [The Power of the Abyss in the Palm of My Hand...]
+[09Jun2025 04:18:55.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=39, z=-158} BlockPos{x=-216, y=40, z=-159}
+[09Jun2025 04:18:55.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=40, z=-158} BlockPos{x=-216, y=40, z=-159}
+[09Jun2025 04:19:02.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=41, z=-153} BlockPos{x=-216, y=41, z=-154}
+[09Jun2025 04:19:02.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=41, z=-153} BlockPos{x=-216, y=41, z=-154}
+[09Jun2025 04:19:02.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=42, z=-152} BlockPos{x=-216, y=41, z=-154}
+[09Jun2025 04:19:02.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=42, z=-152} BlockPos{x=-216, y=41, z=-154}
+[09Jun2025 04:19:02.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=41, z=-151} BlockPos{x=-216, y=41, z=-154}
+[09Jun2025 04:19:26.959] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/153851, l='ServerLevel[AAAA]', x=-4382.50, y=-1.00, z=-1042.50]
+[09Jun2025 04:20:20.677] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/156272, l='ServerLevel[AAAA]', x=-4364.50, y=-2.00, z=-1042.50]
+[09Jun2025 04:20:32.702] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/156820, l='ServerLevel[AAAA]', x=-4368.50, y=4.00, z=-1042.50]
+[09Jun2025 04:20:32.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 0.3910151005447915
+[09Jun2025 04:20:33.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 0.7314977491869286
+[09Jun2025 04:20:33.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 1.0311572154014357
+[09Jun2025 04:20:33.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 1.2979538007466545
+[09Jun2025 04:20:33.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 1.5884738781933265
+[09Jun2025 04:23:21.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 moved too quickly! -7.043472385163824,6.236801485085664,-16.323268789554277
+[09Jun2025 04:23:21.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xZ3r0kx moved too quickly! -17.352069248166117,-1.89308820871193,-3.819787753642231
+[09Jun2025 04:23:21.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BgodYT moved too quickly! -4.590767786163497,-7.992545700862337,14.789091829619935
+[09Jun2025 04:23:21.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[09Jun2025 04:23:21.785] [Worker-Main3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[09Jun2025 04:23:59.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xZ3r0kx moved too quickly! -11.345224499351389,-4.391008159928873,-13.680667267034778
+[09Jun2025 04:23:59.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BgodYT moved too quickly! -16.97270027407626,-3.4044709975426883,-2.2347490679212143
+[09Jun2025 04:23:59.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4739ms or 94 ticks behind
+[09Jun2025 04:33:24.191] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.337] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.364] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.412] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.447] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.505] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.589] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.594] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.602] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.606] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.650] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.913] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.932] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:24.984] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:25.081] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:25.092] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:25.126] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:25.142] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:25.178] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:25.184] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:25.198] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:29.951] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:29.996] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:30.102] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:30.181] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.146] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.204] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.258] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.286] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.336] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.382] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.462] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.520] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.549] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.720] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.739] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.779] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.868] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.921] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.945] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.949] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.959] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:31.977] [Worker-Main4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:32.837] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:32.841] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:32.944] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:32.958] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:32.962] [Worker-Main141/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jun2025 04:33:34.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12169ms or 243 ticks behind
+[09Jun2025 04:33:34.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xZ3r0kx moved too quickly! 1.1122964616229183,2.750812921255317,-9.706920785610805
+[09Jun2025 04:33:35.934] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Isaaac_173 with unique ID b3d54682-2cc8-4826-8c06-afc599bfb4fe
+[09Jun2025 04:33:35.936] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -168 Y: 125 Z: -2256
+[09Jun2025 04:33:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was shot by Casti414 using [Liquido Preseminal]
+[09Jun2025 04:33:35.961] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-169, 125, -2257) minecraft:overworld
+[09Jun2025 04:34:08.472] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
