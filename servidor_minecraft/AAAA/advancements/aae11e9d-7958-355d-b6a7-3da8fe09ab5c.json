@@ -10819,5 +10819,11 @@
     },
     "done": true
   },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2025-06-09 02:57:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

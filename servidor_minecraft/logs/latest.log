@@ -1300,3 +1300,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 02:44:24.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xZ3r0kx[/127.56.156.83:40055] logged in with entity id 64473 at (-959.469463207978, 81.0, -738.8753735780028)
 [09Jun2025 02:44:24.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx joined the game
 [09Jun2025 02:44:24.439] [Server thread/INFO] [Jade/]: Syncing config to xZ3r0kx (b262c7ac-a841-3c17-86a8-5600b971dc2c)
+[09Jun2025 02:56:39.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 lost connection: Disconnected
+[09Jun2025 02:56:39.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 left the game
+[09Jun2025 02:57:42.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has reached the goal [Worsening Nightmares]
+[09Jun2025 03:08:05.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isaaac_173[/127.121.81.23:57313] logged in with entity id 75684 at (-310.92263428138256, 112.0, -2273.5985771578944)
+[09Jun2025 03:08:05.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 joined the game
+[09Jun2025 03:08:05.904] [Server thread/INFO] [Jade/]: Syncing config to Isaaac_173 (5a9f8102-961e-3d36-ba9a-c7074b3f629e)
+[09Jun2025 03:09:22.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-281, y=126, z=-2241} BlockPos{x=-282, y=125, z=-2241}
+[09Jun2025 03:09:22.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-281, y=126, z=-2242} BlockPos{x=-282, y=125, z=-2241}
+[09Jun2025 03:09:22.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-281, y=126, z=-2242} BlockPos{x=-282, y=125, z=-2241}
+[09Jun2025 03:09:22.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-281, y=126, z=-2242} BlockPos{x=-282, y=125, z=-2241}
+[09Jun2025 03:09:23.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-281, y=126, z=-2242} BlockPos{x=-282, y=125, z=-2241}
+[09Jun2025 03:12:11.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Always Watching]
+[09Jun2025 03:13:21.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xZ3r0kx lost connection: Disconnected
+[09Jun2025 03:13:21.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx left the game
