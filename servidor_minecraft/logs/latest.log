@@ -1316,3 +1316,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 03:13:21.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx left the game
 [09Jun2025 03:20:07.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=130, z=-2176} BlockPos{x=-189, y=131, z=-2176}
 [09Jun2025 03:33:51.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Colorful Arsenal]
+[09Jun2025 03:43:21.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xZ3r0kx[/127.56.156.83:44723] logged in with entity id 109732 at (-303.72489242040666, 112.0, -2243.887621535087)
+[09Jun2025 03:43:21.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx joined the game
+[09Jun2025 03:43:21.552] [Server thread/INFO] [Jade/]: Syncing config to xZ3r0kx (b262c7ac-a841-3c17-86a8-5600b971dc2c)
+[09Jun2025 03:57:49.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=128, z=-2240} BlockPos{x=-186, y=127, z=-2240}
+[09Jun2025 03:57:49.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=128, z=-2240} BlockPos{x=-186, y=127, z=-2240}
+[09Jun2025 03:57:52.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=127, z=-2243} BlockPos{x=-184, y=126, z=-2244}
+[09Jun2025 03:57:52.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=127, z=-2243} BlockPos{x=-184, y=126, z=-2244}
+[09Jun2025 04:00:46.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=127, z=-2248} BlockPos{x=-188, y=126, z=-2248}
+[09Jun2025 04:01:06.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=126, z=-2242} BlockPos{x=-181, y=125, z=-2243}
+[09Jun2025 04:01:22.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=127, z=-2237} BlockPos{x=-178, y=126, z=-2236}
+[09Jun2025 04:01:22.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=127, z=-2237} BlockPos{x=-178, y=126, z=-2236}
+[09Jun2025 04:01:23.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=127, z=-2236} BlockPos{x=-178, y=126, z=-2236}
+[09Jun2025 04:02:05.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 moved too quickly! 13.340412551653799,-10.042200348998477,8.321227843040106

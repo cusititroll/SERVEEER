@@ -8808,6 +8808,12 @@
     },
     "done": true
   },
+  "stellarity:end_city/jeb_": {
+    "criteria": {
+      "craft9": "2025-06-09 03:33:51 +0000"
+    },
+    "done": false
+  },
   "simplyswords:runic_weapon": {
     "criteria": {
       "requirement": "2025-06-09 01:08:11 +0000"
@@ -8817,6 +8823,12 @@
   "deeperdarker:recipes/building_blocks/soul_elytra": {
     "criteria": {
       "has_elytra": "2025-06-09 02:31:43 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/colorful_arsenal": {
+    "criteria": {
+      "color_shulker_box": "2025-06-09 03:33:51 +0000"
     },
     "done": true
   },
