@@ -1279,3 +1279,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 01:01:11.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BgodYT[/127.1.170.36:43889] logged in with entity id 1666 at (-958.4324089398701, 77.0, -725.4319961012484)
 [09Jun2025 01:01:11.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT joined the game
 [09Jun2025 01:01:11.471] [Server thread/INFO] [Jade/]: Syncing config to BgodYT (1c229215-0b7b-38ec-9abe-86a230eede90)
+[09Jun2025 01:08:12.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=121, z=-2207} BlockPos{x=-161, y=120, z=-2207}
+[09Jun2025 01:11:30.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:41361] logged in with entity id 5511 at (-266.23750001192093, 127.1875, -2266.109761607626)
+[09Jun2025 01:11:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
+[09Jun2025 01:11:30.574] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
