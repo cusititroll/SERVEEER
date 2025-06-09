@@ -1297,3 +1297,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 02:35:35.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:40625] logged in with entity id 54682 at (-945.5063780330669, 75.0, -684.7853519780123)
 [09Jun2025 02:35:35.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
 [09Jun2025 02:35:35.634] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
+[09Jun2025 02:44:24.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xZ3r0kx[/127.56.156.83:40055] logged in with entity id 64473 at (-959.469463207978, 81.0, -738.8753735780028)
+[09Jun2025 02:44:24.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx joined the game
+[09Jun2025 02:44:24.439] [Server thread/INFO] [Jade/]: Syncing config to xZ3r0kx (b262c7ac-a841-3c17-86a8-5600b971dc2c)
