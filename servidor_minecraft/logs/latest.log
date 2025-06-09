@@ -1292,3 +1292,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 02:00:26.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xZ3r0kx lost connection: Disconnected
 [09Jun2025 02:00:26.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx left the game
 [09Jun2025 02:31:43.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has reached the goal [Sky's the Limit]
+[09Jun2025 02:35:23.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MICHE019 lost connection: Disconnected
+[09Jun2025 02:35:23.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 left the game
+[09Jun2025 02:35:35.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:40625] logged in with entity id 54682 at (-945.5063780330669, 75.0, -684.7853519780123)
+[09Jun2025 02:35:35.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
+[09Jun2025 02:35:35.634] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
