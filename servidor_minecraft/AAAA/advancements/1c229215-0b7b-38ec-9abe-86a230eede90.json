@@ -8814,5 +8814,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-09 01:35:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-06-09 01:15:43 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_spirit_dagger": {
+    "criteria": {
+      "requirement": "2025-06-09 01:15:43 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spirit_dagger": {
+    "criteria": {
+      "requirement": "2025-06-09 01:15:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

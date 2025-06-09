@@ -1283,3 +1283,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 01:11:30.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICHE019[/127.194.80.254:41361] logged in with entity id 5511 at (-266.23750001192093, 127.1875, -2266.109761607626)
 [09Jun2025 01:11:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 joined the game
 [09Jun2025 01:11:30.574] [Server thread/INFO] [Jade/]: Syncing config to MICHE019 (f83089a6-72a9-35fe-a6a5-d702e2e1c8bc)
+[09Jun2025 01:12:02.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xZ3r0kx[/127.56.156.83:45835] logged in with entity id 5815 at (-274.6246148862654, 112.0, -2239.8878798524106)
+[09Jun2025 01:12:02.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx joined the game
+[09Jun2025 01:12:02.769] [Server thread/INFO] [Jade/]: Syncing config to xZ3r0kx (b262c7ac-a841-3c17-86a8-5600b971dc2c)
+[09Jun2025 01:13:17.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-960, y=75, z=-690} BlockPos{x=-961, y=74, z=-691}
+[09Jun2025 01:33:07.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 moved wrongly!
+[09Jun2025 01:35:40.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=125, z=-2185} BlockPos{x=-179, y=125, z=-2186}

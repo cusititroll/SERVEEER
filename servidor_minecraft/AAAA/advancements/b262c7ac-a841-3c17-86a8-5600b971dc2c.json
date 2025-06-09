@@ -8448,88 +8448,183 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "stellarity:end_city/portable_storage": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-07 05:52:21 +0000",
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
+      "craft_shulker_box": "2025-06-07 03:25:07 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 05:52:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/gold_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+      "crying_obsidian": "2025-06-07 03:25:22 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_warped_chair": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "has_warped_planks": "2025-06-07 04:10:23 +0000"
+      "has_obsidian": "2025-06-07 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_zephyr": {
+    "criteria": {
+      "requirement": "2025-06-07 03:27:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_ancient_armor": {
+    "criteria": {
+      "requirement3": "2025-06-07 03:27:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_hallowed_armor": {
+    "criteria": {
+      "requirement3": "2025-06-07 03:27:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/ancient_armor": {
+    "criteria": {
+      "requirement3": "2025-06-07 03:27:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/hallowed_armor": {
+    "criteria": {
+      "requirement3": "2025-06-07 03:27:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/pandoras_barrel": {
+    "criteria": {
+      "requirement2": "2025-06-07 03:27:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-07 03:27:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_pandoras_barrel": {
+    "criteria": {
+      "requirement2": "2025-06-07 03:27:46 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/zephyr": {
+    "criteria": {
+      "requirement": "2025-06-07 03:27:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-06-07 03:28:02 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2025-06-07 03:29:18 +0000"
+    },
+    "done": false
+  },
+  "stellarity:end_city/defeat_shulker": {
+    "criteria": {
+      "defeat_shulkers": "2025-06-07 03:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-06-07 03:37:12 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/shulker_things": {
+    "criteria": {
+      "requirement": "2025-06-07 03:37:12 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
+    "criteria": {
+      "requirement": "2025-06-07 03:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-06-07 03:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-06-07 03:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-07 03:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-07 03:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-06-07 03:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-07 03:37:24 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/whos_the_thief_now": {
+    "criteria": {
+      "open_chest_1": "2025-06-07 03:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-06-07 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-07 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-06-07 03:55:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-06-07 03:58:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-06-07 04:09:28 +0000"
     },
     "done": true
   },
@@ -8539,33 +8634,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/warped_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/purple_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/warped_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_warped_chair": {
-    "criteria": {
-      "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/squid_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
     },
     "done": true
   },
@@ -8593,36 +8664,6 @@
     },
     "done": true
   },
-  "stellarity:cursed_tome/frigid_harvester": {
-    "criteria": {
-      "requirement2": "2025-06-07 04:20:00 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_warped_chair": {
-    "criteria": {
-      "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_zephyr": {
-    "criteria": {
-      "requirement": "2025-06-07 03:27:46 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_warped_chair": {
-    "criteria": {
-      "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/horse_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/green_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-06-07 04:10:21 +0000"
@@ -8641,45 +8682,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/sandstone_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "stellarity:end_city/whos_the_thief_now": {
-    "criteria": {
-      "open_chest_1": "2025-06-07 03:46:58 +0000"
-    },
-    "done": true
-  },
-  "stellarity:end_city/defeat_shulker": {
-    "criteria": {
-      "defeat_shulkers": "2025-06-07 03:37:10 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/soul_elytra": {
-    "criteria": {
-      "has_elytra": "2025-06-07 04:25:32 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_ancient_armor": {
-    "criteria": {
-      "requirement3": "2025-06-07 03:27:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/warped_park_bench": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:23 +0000"
     },
     "done": true
   },
@@ -8689,21 +8694,9 @@
     },
     "done": true
   },
-  "stellarity:adventure/kill_large_phantom": {
-    "criteria": {
-      "size_doesnt_matter": "2025-06-07 04:26:41 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "stellarity:end_city/portable_storage": {
-    "criteria": {
-      "craft_shulker_box": "2025-06-07 03:25:07 +0000"
     },
     "done": true
   },
@@ -8713,27 +8706,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_warped_chair": {
-    "criteria": {
-      "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/warped_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:23 +0000"
     },
     "done": true
   },
@@ -8743,27 +8718,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_golem_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2025-06-07 03:37:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_rod": {
-    "criteria": {
-      "has_chorus_fruit_popped": "2025-06-07 04:26:52 +0000"
     },
     "done": true
   },
@@ -8773,57 +8730,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/bat_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/orange_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-06-07 04:10:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/skeleton_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_warped_chair": {
-    "criteria": {
-      "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:shipwrecks": {
-    "criteria": {
-      "in_shipwreck_end": "2025-06-07 03:29:18 +0000"
-    },
-    "done": false
-  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/warped_chair": {
-    "criteria": {
-      "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_warped_chair": {
-    "criteria": {
-      "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wither_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
     },
     "done": true
   },
@@ -8839,9 +8754,273 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/packed_ice_from_freezing": {
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_crimson_chair": {
     "criteria": {
-      "has_ice": "2025-06-07 04:39:35 +0000"
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_desk_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_park_bench": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-06-07 04:10:23 +0000"
     },
     "done": true
   },
@@ -8869,108 +9048,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/creeper_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/bookshelf_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/coal_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-06-07 04:09:28 +0000"
-    },
-    "done": true
-  },
-  "stellarity:aota/pandoras_barrel/place": {
-    "criteria": {
-      "requirement": "2025-06-07 04:25:08 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "stellarity:end_city/super_sonic": {
-    "criteria": {
-      "fly": "2025-06-07 04:40:13 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-06-07 04:25:32 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_frigid_harvester": {
-    "criteria": {
-      "requirement2": "2025-06-07 04:20:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_stairs": {
-    "criteria": {
-      "has_purpur_block": "2025-06-07 03:37:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/end_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-06-07 03:37:24 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/snow_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/cow_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/warped_crate": {
     "criteria": {
       "has_planks": "2025-06-07 04:10:23 +0000"
@@ -8980,42 +9057,6 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_crate": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/sheep_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/hay_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_hallowed_armor": {
-    "criteria": {
-      "requirement3": "2025-06-07 03:27:46 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/pig_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
     },
     "done": true
   },
@@ -9031,24 +9072,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-06-07 03:37:12 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_spirit_dagger": {
-    "criteria": {
-      "requirement2": "2025-06-07 04:26:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-06-07 03:37:24 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/orange_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 04:10:23 +0000"
@@ -9061,75 +9084,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/fox_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-06-07 03:25:22 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/ancient_armor": {
-    "criteria": {
-      "requirement3": "2025-06-07 03:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/melon_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/standard_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/cake_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_gray_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/spirit_dagger": {
-    "criteria": {
-      "requirement2": "2025-06-07 04:26:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
     },
     "done": true
   },
@@ -9139,27 +9096,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_desk": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2025-06-07 03:37:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/cactus_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
     },
     "done": true
   },
@@ -9169,33 +9108,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_leggings_repairing": {
-    "criteria": {
-      "has_diamond_leggings": "2025-06-07 03:55:58 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wolf_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/nether_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/bee_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
     },
     "done": true
   },
@@ -9223,75 +9138,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/yellow_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "stellarity:recipes/gunpowder_from_popped_chorus_blasting": {
-    "criteria": {
-      "has_item": "2025-06-07 04:26:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spider_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/chicken_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/shulker_things": {
-    "criteria": {
-      "requirement": "2025-06-07 03:37:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/emerald_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-06-07 04:39:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_park_bench": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "stellarity:cursed_tome/hallowed_armor": {
-    "criteria": {
-      "requirement3": "2025-06-07 03:27:46 +0000"
     },
     "done": true
   },
@@ -9301,21 +9150,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_gloves_repairing": {
-    "criteria": {
-      "has_diamond_gloves": "2025-06-07 03:28:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
     },
     "done": true
   },
@@ -9325,33 +9162,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/pumpkin_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/enderman_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
     },
     "done": true
   },
@@ -9367,42 +9180,6 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/ice_bricks": {
-    "criteria": {
-      "has_ice": "2025-06-07 04:39:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_chair": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/sponge_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/magma_cube_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/warped_desk": {
     "criteria": {
       "has_warped_planks": "2025-06-07 04:10:23 +0000"
@@ -9415,45 +9192,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/green_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_spire_armor_trim_smithing_template": "2025-06-07 03:51:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/blaze_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
     },
     "done": true
   },
@@ -9463,57 +9204,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-06-07 03:25:22 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/warped_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-06-07 04:10:23 +0000"
     },
     "done": true
   },
-  "stellarity:cursed_tome/pandoras_barrel": {
-    "criteria": {
-      "requirement2": "2025-06-07 03:27:46 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/warped_table": {
     "criteria": {
       "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-06-07 03:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lapis_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_block": {
-    "criteria": {
-      "has_chorus_fruit_popped": "2025-06-07 04:26:52 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
     },
     "done": true
   },
@@ -9535,69 +9234,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/quartz_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/crimson_table": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-07 03:51:38 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_pandoras_barrel": {
-    "criteria": {
-      "requirement2": "2025-06-07 03:27:46 +0000"
-    },
-    "done": true
-  },
-  "stellarity:dragons_den/cursed_tome/items/unlock_shulker_things": {
-    "criteria": {
-      "requirement": "2025-06-07 03:37:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/crimson_desk_drawer": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/redstone_smithing_netherite": {
-    "criteria": {
-      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-06-07 04:10:21 +0000"
     },
     "done": true
   },
@@ -9607,21 +9246,339 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+  "valhelsia_furniture:recipes/decorations/purple_warped_chair": {
     "criteria": {
-      "has_purpur_block": "2025-06-07 03:37:24 +0000"
+      "has_warped_planks": "2025-06-07 04:10:23 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/black_crimson_chair": {
+  "valhelsia_furniture:recipes/decorations/black_upholstered_warped_chair": {
     "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
+      "has_warped_planks": "2025-06-07 04:10:23 +0000"
     },
     "done": true
   },
-  "stellarity:cursed_tome/zephyr": {
+  "valhelsia_furniture:recipes/decorations/black_warped_chair": {
     "criteria": {
-      "requirement": "2025-06-07 03:27:46 +0000"
+      "has_warped_planks": "2025-06-07 04:10:23 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/frigid_harvester": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:20:00 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_frigid_harvester": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:20:00 +0000"
+    },
+    "done": true
+  },
+  "stellarity:aota/pandoras_barrel/place": {
+    "criteria": {
+      "requirement": "2025-06-07 04:25:08 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-07 04:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-07 04:25:32 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2025-06-07 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spirit_dagger": {
+    "criteria": {
+      "requirement2": "2025-06-07 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-06-07 04:26:52 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/gunpowder_from_popped_chorus_blasting": {
+    "criteria": {
+      "has_item": "2025-06-07 04:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-06-07 04:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/packed_ice_from_freezing": {
+    "criteria": {
+      "has_ice": "2025-06-07 04:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-07 04:39:35 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/ice_bricks": {
+    "criteria": {
+      "has_ice": "2025-06-07 04:39:35 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/super_sonic": {
+    "criteria": {
+      "fly": "2025-06-07 04:40:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/gold_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/squid_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/horse_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/sandstone_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_golem_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bat_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/skeleton_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wither_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/creeper_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bookshelf_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/coal_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/end_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/snow_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/cow_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/sheep_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/hay_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pig_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fox_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/melon_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/standard_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/cake_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/cactus_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wolf_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/nether_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bee_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spider_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/chicken_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/emerald_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pumpkin_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/enderman_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/sponge_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/magma_cube_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blaze_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lapis_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/quartz_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/redstone_smithing_netherite": {
+    "criteria": {
+      "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
     },
     "done": true
   },
@@ -9637,24 +9594,6 @@
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_shovel_repairing": {
-    "criteria": {
-      "has_diamond_shovel": "2025-06-07 03:58:39 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_warped_chair": {
-    "criteria": {
-      "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-06-07 04:10:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/villager_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
@@ -9664,18 +9603,6 @@
   "minecraft:recipes/tools/dragon_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-06-07 05:33:16 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_warped_chair": {
-    "criteria": {
-      "has_warped_planks": "2025-06-07 04:10:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_warped_chair": {
-    "criteria": {
-      "has_warped_planks": "2025-06-07 04:10:23 +0000"
     },
     "done": true
   },
