@@ -1279,3 +1279,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jun2025 03:52:51.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
 [21Jun2025 03:52:51.789] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
 [21Jun2025 03:52:53.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[21Jun2025 04:09:10.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[21Jun2025 04:09:10.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
