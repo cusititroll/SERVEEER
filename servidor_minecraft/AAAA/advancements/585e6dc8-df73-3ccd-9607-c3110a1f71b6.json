@@ -14147,94 +14147,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-08 07:49:16 +0000",
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
+      "has_netherite_pickaxe": "2025-06-08 07:11:58 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-08 07:49:15 +0000"
-    },
-    "done": false
-  },
-  "stellarity:end_city/jeb_": {
-    "criteria": {
-      "craft9": "2025-06-08 07:43:11 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
       "has_logs": "2025-06-08 07:16:59 +0000"
-    },
-    "done": true
-  },
-  "stellarity:end_city/colorful_arsenal": {
-    "criteria": {
-      "color_shulker_box": "2025-06-08 07:43:11 +0000"
     },
     "done": true
   },
@@ -14244,9 +14165,15 @@
     },
     "done": true
   },
-  "aether:recipes/tools/netherite_pickaxe_repairing": {
+  "stellarity:end_city/jeb_": {
     "criteria": {
-      "has_netherite_pickaxe": "2025-06-08 07:11:58 +0000"
+      "craft9": "2025-06-08 07:43:11 +0000"
+    },
+    "done": false
+  },
+  "stellarity:end_city/colorful_arsenal": {
+    "criteria": {
+      "color_shulker_box": "2025-06-08 07:43:11 +0000"
     },
     "done": true
   },
